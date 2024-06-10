@@ -1,0 +1,57 @@
+.galleryImage {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 20px;
+}
+
+.galleryImage img {
+    height: 200px;
+
+    border-radius: 20px;
+}
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+
+    margin-top: 70px;
+}
+
+.galleryImage1 {
+    width: 100%;
+}
+
+.galleryInfo {
+    text-align: center;
+    font-size: 42px;
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.price {
+    border: 5px solid green ;
+    width: 50%;
+    border-radius: 50px;
+    color: white;
+    padding: 10px;
+}
+
+
+@media(max-width: 600px) {
+    .catalogTitle {
+        font-size: 22px;
+    }
+    .galleryImage img {
+        height: 100px;
+    }
+    .galleryInfo {
+        font-size: 22px;
+    }
+}
