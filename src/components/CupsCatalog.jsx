@@ -6,7 +6,7 @@ const cupsCatalog = [
     {
         type: "/vine",
         title: 'Бокалы для вина',
-        url: "/src/assets/vineCup.png",
+        url: "/images/vineCup.png",
         height: "75%",
     },
     {
