@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom"
-import logo from "public/images/logos/pasabahce-logo.svg"
+import logo from "/images/logos/pasabahce-logo.svg"
 
 function Header() {
 
