@@ -36,7 +36,7 @@ const cupsCatalog = [
     {
         type: "/beer",
         title: 'Бокалы для пива',
-        url: "/public/images/catalogImages/beerCup.png",
+        url: "public/images/catalogImages/beerCup.png",
         height: "75%",
     },
     {
