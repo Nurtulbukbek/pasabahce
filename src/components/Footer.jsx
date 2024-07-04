@@ -8,7 +8,7 @@ function Footer() {
         <>
             <div className="container">
                 <footer>
-                    <img className="footer-pasabahce-logo" src="public/images/logos/pasabahceDarkLogo.png" alt="" height="50px" />
+                    <img className="footer-pasabahce-logo" src="/images/logos/pasabahceDarkLogo.png" alt="" height="50px" />
 
                      <div className="contacts">
                         <a href="#">
