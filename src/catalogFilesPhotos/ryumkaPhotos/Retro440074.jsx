@@ -5,10 +5,10 @@ function  Retro440074() {
         <>
             <Example
                 name = "Retro 440074"
-                photo1 = "src/assests2/ryumkaimgs/Retro440074.png"
-                photo2 = "src/assests2/ryumkaimgs/Retro440074.png"
-                photo3 = "src/assests2/ryumkaimgs/Retro440074.png"
-                photo4 = "src/assests2/ryumkaimgs/Retro440074.png"
+                photo1 = "/images/catalogItemsImages/ryumkaimgs/Retro440074.png"
+                photo2 = "/images/catalogItemsImages/ryumkaimgs/Retro440074.png"
+                photo3 = "/images/catalogItemsImages/ryumkaimgs/Retro440074.png"
+                photo4 = "/images/catalogItemsImages/ryumkaimgs/Retro440074.png"
                 price = "135"
             />
         </>

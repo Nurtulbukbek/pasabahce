@@ -5,10 +5,10 @@ function Valse42294() {
         <>
             <Example
                 name = "Valse42294"
-                photo1 = "src/assests2/Valse42294.png"
-                photo2 = "src/assests2/Valse42294.png"
-                photo3 = "src/assests2/Valse42294.png"
-                photo4 = "src/assests2/Valse42294.png"
+                photo1 = "/images/catalogItemsImages/sodaimgs/Valse42294.png"
+                photo2 = "/images/catalogItemsImages/sodaimgs/Valse42294.png"
+                photo3 = "/images/catalogItemsImages/sodaimgs/Valse42294.png"
+                photo4 = "/images/catalogItemsImages/sodaimgs/Valse42294.png"
                 price = "60"
             />
         </>
