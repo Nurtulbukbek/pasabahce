@@ -12,19 +12,19 @@ const cupsCatalog = [
     {
         type: "/soda",
         title: 'Бокалы для напитков',
-        url: "/public/images/catalogImages/sodaCup.png",
+        url: "public/images/catalogImages/sodaCup.png",
         height: "70%",
     },
     {
         type: "/ryumka",
         title: 'Рюмки',
-        url: "/public/images/catalogImages/ryumka.png",
+        url: "public/images/catalogImages/ryumka.png",
         height: "50%",
     },
     {
         type: "/decanter",
         title: 'Графины',
-        url: "/public/images/catalogImages/decanter.png",
+        url: "public/images/catalogImages/decanter.png",
         height: "75%",
     },
     {
@@ -42,19 +42,19 @@ const cupsCatalog = [
     {
         type: "/tea",
         title: 'Бокалы для чая',
-        url: "/public/images/catalogImages/teaCup.png",
+        url: "public/images/catalogImages/teaCup.png",
         height: "60%",
     },
     {
         type: "/champagne",
         title: 'Фужеры для шампанского/коктейлей',
-        url: "/public/images/catalogImages/champagne.png",
+        url: "public/images/catalogImages/champagne.png",
         height: "75%",
     },
     {
         type: "/others",
         title: 'Другие',
-        url: "/public/images/catalogImages/other.png",
+        url: "public/images/catalogImages/other.png",
         height: "50%",
     },
 ]
