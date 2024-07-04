@@ -15,10 +15,10 @@ function Footer() {
                             <img src="/images/logos/Imo-logo.png" alt="" />
                         </a>
                         <a href="#">
-                            <img src="public/images/logos/tiktok-logo.svg" alt="" />
+                            <img src="/images/logos/tiktok-logo.svg" alt="" />
                         </a>
                         <a href="#">
-                        <img src="public/images/logos/insta-logo.png" alt="" />
+                        <img src="/images/logos/insta-logo.png" alt="" />
                         </a>
                         <span>+993 65 123456</span>
                     </div>

@@ -8,16 +8,16 @@ import 'react-slideshow-image/dist/styles.css'
 
 const slideImages = [
   {
-    url: 'public/images/sliderBackgrounds/slider-bg-img3.png',
+    url: '/images/sliderBackgrounds/slider-bg-img3.png',
     caption: 'Прозрачность и красота.Стеклянные стаканы для вашего дома',
     text: 'Полуостров Камчатка расположен на крайнем востоке Советского Союза, примерно между широтами Киева и Ленинграда. Он вытянут в северо-восточном направлении и, по удачному сравнению '
  },
   {
-    url: 'public/images/sliderBackgrounds/slider-bg-img3.png',
+    url: '/images/sliderBackgrounds/slider-bg-img3.png',
     caption: 'test slide 2'
   },
   {
-    url: 'public/images/sliderBackgrounds/slider-bg-img.avif',
+    url: '/images/sliderBackgrounds/slider-bg-img.avif',
     caption: 'test slide 3'
   },
 ];

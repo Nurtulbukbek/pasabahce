@@ -8,17 +8,17 @@ import 'react-slideshow-image/dist/styles.css'
 
 const slideImages = [
     {
-        url: "https://images.unsplash.com/photo-1626201640519-4297dc851753?q=80&w=1379&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        url: "/images/sliderBackgrounds/slider-bg-img.avif",
         caption: 'Прозрачность и красота.Стеклянные стаканы для вашего дома',
         text: 'Полуостров Камчатка расположен на крайнем востоке Советского Союза, примерно между широтами Киева и Ленинграда. Он вытянут в северо-восточном направлении и, по удачному сравнению '
      },
       {
-        url: 'https://images.unsplash.com/photo-1499950617211-a8609a16ad72?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8ZHJpbmslMjBjdXBzfGVufDB8fDB8fHww',
+        url: '/images/sliderBackgrounds/slider-bg-img3.png',
         caption: 'Хватит пить из одноразового! Выбери свой стаканчик!',
         text: 'Полуостров Камчатка расположен на крайнем востоке Советского Союза, примерно между широтами Киева и Ленинграда. Он вытянут в северо-восточном направлении и, по удачному сравнению '
     },
       {
-        url: 'https://images.unsplash.com/photo-1489866492941-15d60bdaa7e0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZHJpbmslMjBjdXBzfGVufDB8fDB8fHww',
+        url: '/images/sliderBackgrounds/slider-bg-img.avif',
         caption: 'Забудь о скучных стаканах!',
         text: 'Полуостров Камчатка расположен на крайнем востоке Советского Союза, примерно между широтами Киева и Ленинграда. Он вытянут в северо-восточном направлении и, по удачному сравнению ',
       },
