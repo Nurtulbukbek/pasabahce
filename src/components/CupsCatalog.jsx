@@ -30,7 +30,7 @@ const cupsCatalog = [
     {
         type: "/baking-dishes",
         title: 'Формы для запекания',
-        url: "/public/images/catalogImages/bakingDishes.png",
+        url: "src/assets/bakingDishes.png",
         height: "60%",
     },
     {
