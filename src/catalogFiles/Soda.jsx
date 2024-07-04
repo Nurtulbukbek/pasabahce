@@ -12,7 +12,7 @@ const cupCatalog = [
         value: "Объем: 60ml",
         quantity: "К/л в упаковке: 6",
         price: "Цена: 80TMT",
-        url: "src/assests2/sodacupA2.png",
+        url: "/images/catalogItemsImages/sodacupA2.png",
         height: "50%",
     },
     {
@@ -21,7 +21,7 @@ const cupCatalog = [
         value: "Объем: 60ml",
         quantity: "К/л в упаковке: 6",
         price: "Цена: 65TMT",
-        url: "src/assests2/Valse42294.png",
+        url: "/images/catalogItemsImages/Valse42294.png",
         height: "50%",
     },
     {
@@ -30,7 +30,7 @@ const cupCatalog = [
         value: "Объем: 340ml",
         quantity: "К/л в упаковке: 6/12",
         price: "Цена: 120/150TMT",
-        url: "src/assests2/sodacupA2.png",
+        url: "/images/catalogItemsImages/sodacupA2.png",
         height: "50%",
     },
     {
@@ -39,7 +39,7 @@ const cupCatalog = [
         value: "Объем: 340ml",
         quantity: "К/л в упаковке: 6/12",
         price: "Цена: 120/150TMT",
-        url: "src/assests2/sodacupA2.png",
+        url: "/images/catalogItemsImages/sodacupA2.png",
         height: "50%",
     },
     {
@@ -48,7 +48,7 @@ const cupCatalog = [
         value: "Объем: 340ml",
         quantity: "К/л в упаковке: 6/12",
         price: "Цена: 120/150TMT",
-        url: "src/assests2/sodacupA2.png",
+        url: "/images/catalogItemsImages/sodacupA2.png",
         height: "50%",
     },
 ]

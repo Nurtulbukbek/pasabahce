@@ -12,7 +12,7 @@ const cupCatalog = [
         value: "80",
         quantity: "6",
         price: "65",
-        url: "/src/assets/ryumka.png",
+        url: "/images/catalogImages/ryumka.png",
         height: "40%",
     },
     {
@@ -21,7 +21,7 @@ const cupCatalog = [
         value: "60",
         quantity: "6",
         price: "65",
-        url: "src/assests2/ryumkaimgs/Dance42865.jpg",
+        url: "/images/catalogItemsImages/ryumkaimgs/Dance42865.jpg",
         height: "50%",
     },
     {
@@ -30,7 +30,7 @@ const cupCatalog = [
         value: "60",
         quantity: "6",
         price: "65",
-        url: "src/assests2/ryumkaimgs/Allegra42043.png",
+        url: "/images/catalogItemsImages/ryumkaimgs/Allegra42043.png",
         height: "50%",
     },
     {
@@ -39,7 +39,7 @@ const cupCatalog = [
         value: "60",
         quantity: "6",
         price: "60",
-        url: "src/assests2/ryumkaimgs/Basic52837.jpeg",
+        url: "/images/catalogItemsImages/ryumkaimgs/Basic52837.jpeg",
         height: "50%",
     },
     {
@@ -48,7 +48,7 @@ const cupCatalog = [
         value: "60",
         quantity: "6",
         price: "70",
-        url: "src/assests2/ryumkaimgs/Side41050.webp",
+        url: "/images/catalogItemsImages/ryumkaimgs/Side41050.webp",
         height: "50%",
     },
     {
@@ -57,7 +57,7 @@ const cupCatalog = [
         value: "60",
         quantity: "6",
         price: "125",
-        url: "src/assests2/ryumkaimgs/Elysia.jpg",
+        url: "/images/catalogItemsImages/ryumkaimgs/Elysia.jpg",
         height: "50%",
     },
     {
@@ -66,7 +66,7 @@ const cupCatalog = [
         value: "60",
         quantity: "6",
         price: "135",
-        url: "src/assests2/ryumkaimgs/Retro440074.png",
+        url: "/images/catalogItemsImages/ryumkaimgs/Retro440074.png",
         height: "50%",
     },
     {
@@ -75,7 +75,7 @@ const cupCatalog = [
         value: "60",
         quantity: "6",
         price: "135",
-        url: "src/assests2/ryumkaimgs/Vintage440182.png",
+        url: "/images/catalogItemsImages/ryumkaimgs/Vintage440182.png",
         height: "50%",
     },
     {
@@ -84,7 +84,7 @@ const cupCatalog = [
         value: "80",
         quantity: "6",
         price: "115",
-        url: "src/assests2/ryumkaimgs/Amber440286.jpg",
+        url: "/images/catalogItemsImages/ryumkaimgs/Amber440286.jpg",
         height: "50%",
     },
     {
@@ -93,7 +93,7 @@ const cupCatalog = [
         value: "60",
         quantity: "6/12",
         price: "75/145",
-        url: "src/assests2/ryumkaimgs/Bistro44164.png",
+        url: "/images/catalogItemsImages/ryumkaimgs/Bistro44164.png",
         height: "50%",
     },
 

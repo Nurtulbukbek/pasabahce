@@ -6,10 +6,10 @@ function imperial44272() {
         <>
             <Example
                 name = "imperial 44272"
-                photo1 = "src/assets/vineCup.png"
-                photo2 = "src/assets/vineCup.png"
-                photo3 = "src/assets/vineCup.png"
-                photo4 = "src/assets/vineCup.png"
+                photo1 = "/images/catalogImages/vineCup.png"
+                photo2 = "/images/catalogImages/vineCup.png"
+                photo3 = "/images/catalogImages/vineCup.png"
+                photo4 = "/images/catalogImages/vineCup.png"
                 price = "190"
             />
         </>

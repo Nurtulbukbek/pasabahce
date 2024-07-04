@@ -6,10 +6,10 @@ function Tulipe44162() {
         <>
             <Example
                 name = "Tulipe 44162"
-                photo1 = "src/assests2/vineimgs/Tulipe44162.png"
-                photo2 = "src/assests2/vineimgs/Tulipe44162.png"
-                photo3 = "src/assests2/vineimgs/Tulipe44162.png"
-                photo4 = "src/assests2/vineimgs/Tulipe44162.png"
+                photo1 = "/images/catalogItemsImages/vineimgs/Tulipe44162.png"
+                photo2 = "/images/catalogItemsImages/vineimgs/Tulipe44162.png"
+                photo3 = "/images/catalogItemsImages/vineimgs/Tulipe44162.png"
+                photo4 = "/images/catalogItemsImages/vineimgs/Tulipe44162.png"
                 price = "65/120/225"
             />
         </>

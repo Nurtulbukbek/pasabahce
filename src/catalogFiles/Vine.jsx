@@ -12,7 +12,7 @@ const cupCatalog = [
         value: "340",
         quantity: "6/12",
         price: "110/190",
-        url: "src/assets/vineCup.png",
+        url: "/images/catalogImages/vineCup.png",
         height: "50%",
     },
     {
@@ -21,7 +21,7 @@ const cupCatalog = [
         value: "320",
         quantity: "3/6/12",
         price: "65/120/225",
-        url: "src/assests2/vineimgs/Tulipe44162.png",
+        url: "/images/catalogItemsImages/vineimgs/Tulipe44162.png",
         height: "50%",
     },
     {
@@ -30,7 +30,7 @@ const cupCatalog = [
         value: "440",
         quantity: "6",
         price: "235",
-        url: "src/assests2/vineimgs/Enoteca44728.png",
+        url: "/images/catalogItemsImages/vineimgs/Enoteca44728.png",
         height: "50%",
     },
     {
@@ -39,7 +39,7 @@ const cupCatalog = [
         value: "300",
         quantity: "6",
         price: "115 ",
-        url: "src/assests2/vineimgs/Dalida440873.png",
+        url: "/images/catalogItemsImages/vineimgs/Dalida440873.png",
         height: "50%",
     },
     {
@@ -48,7 +48,7 @@ const cupCatalog = [
         value: "236",
         quantity: "6",
         price: "170",
-        url: "src/assests2/vineimgs/Allegra440060.png",
+        url: "/images/catalogItemsImages/vineimgs/Allegra440060.png",
         height: "50%",
     },
     {
@@ -57,7 +57,7 @@ const cupCatalog = [
         value: "245",
         quantity: "6",
         price: "170",
-        url: "src/assests2/vineimgs/Vintage440184.png",
+        url: "/images/catalogItemsImages/vineimgs/Vintage440184.png",
         height: "50%",
     },
     {
@@ -66,7 +66,7 @@ const cupCatalog = [
         value: "350",
         quantity: "6",
         price: "150",
-        url: "src/assests2/vineimgs/Isabella440271.png",
+        url: "/images/catalogItemsImages/vineimgs/Isabella440271.png",
         height: "50%",
     },
     {
@@ -75,7 +75,7 @@ const cupCatalog = [
         value: "400",
         quantity: "6",
         price: "190",
-        url: "src/assests2/vineimgs/Isabella440272.png",
+        url: "/images/catalogItemsImages/vineimgs/Isabella440272.png",
         height: "50%",
     },
     {
@@ -84,7 +84,7 @@ const cupCatalog = [
         value: "365",
         quantity: "2/6/12  ",
         price: "60/165/270",
-        url: "src/assests2/vineimgs/Allegra440265.png",
+        url: "/images/catalogItemsImages/vineimgs/Allegra440265.png",
         height: "50%",
     },
     {
@@ -93,7 +93,7 @@ const cupCatalog = [
         value: "475",
         quantity: "6",
         price: "175",
-        url: "src/assests2/vineimgs/Amber440275.png",
+        url: "/images/catalogItemsImages/vineimgs/Amber440275.png",
         height: "50%",
     },
     {
@@ -102,7 +102,7 @@ const cupCatalog = [
         value: "350",
         quantity: "12",
         price: "315",
-        url: "src/assests2/vineimgs/Allegra440080.png",
+        url: "/images/catalogItemsImages/vineimgs/Allegra440080.png",
         height: "50%",
     },
 ]

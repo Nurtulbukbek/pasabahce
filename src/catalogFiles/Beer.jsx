@@ -12,7 +12,7 @@ const cupCatalog = [
         value: "380ml",
         quantity: "2",
         price: "60",
-        url: "src/assests2/beerimgs/Pub55299.png",
+        url: "/images/catalogItemsImages/beerimgs/Pub55299.png",
         height: "50%",
     },
     {
@@ -21,7 +21,7 @@ const cupCatalog = [
         value: "660",
         quantity: "2",
         price: "75",
-        url: "src/assests2/beerimgs/Pub55229.png",
+        url: "/images/catalogItemsImages/beerimgs/Pub55229.png",
         height: "50%",
     },
     {
@@ -30,7 +30,7 @@ const cupCatalog = [
         value: "500",
         quantity: "2",
         price: "65",
-        url: "src/assests2/beerimgs/Pub55289.png",
+        url: "/images/catalogItemsImages/beerimgs/Pub55289.png",
         height: "50%",
     },
     {
@@ -39,7 +39,7 @@ const cupCatalog = [
         value: "700",
         quantity: "2",
         price: "50",
-        url: "src/assests2/beerimgs/Pub42528.png",
+        url: "/images/catalogItemsImages/beerimgs/Pub42528.png",
         height: "50%",
     },
     {
@@ -48,7 +48,7 @@ const cupCatalog = [
         value: "500",
         quantity: "2",
         price: "50",
-        url: "src/assests2/beerimgs/Pub42477.png",
+        url: "/images/catalogItemsImages/beerimgs/Pub42477.png",
         height: "50%",
     },
     {
@@ -57,7 +57,7 @@ const cupCatalog = [
         value: "500",
         quantity: "2",
         price: "40",
-        url: "src/assests2/beerimgs/Bacchus80113.png",
+        url: "/images/catalogItemsImages/beerimgs/Bacchus80113.png",
         height: "50%",
     },
     {
@@ -66,7 +66,7 @@ const cupCatalog = [
         value: "500",
         quantity: "2",
         price: "50",
-        url: "src/assests2/beerimgs/Pub42477.png",
+        url: "/images/catalogItemsImages/beerimgs/Pub42477.png",
         height: "50%",
     },
     {
@@ -75,7 +75,7 @@ const cupCatalog = [
         value: "500",
         quantity: "2",
         price: "50",
-        url: "src/assests2/beerimgs/Pub42477.png",
+        url: "/images/catalogItemsImages/beerimgs/Pub42477.png",
         height: "50%",
     },
 ]

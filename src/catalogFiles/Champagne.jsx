@@ -12,7 +12,7 @@ const cupCatalog = [
         value: "380ml",
         quantity: "2",
         price: "60",
-        url: "src/assests2/beerimgs/Pub55299.png",
+        url: "/images/catalogItemsImages/beerimgs/Pub55299.png",
         height: "50%",
     },
     {
@@ -21,7 +21,7 @@ const cupCatalog = [
         value: "660",
         quantity: "2",
         price: "75",
-        url: "src/assests2/beerimgs/Pub55229.png",
+        url: "/images/catalogItemsImages/beerimgs/Pub55229.png",
         height: "50%",
     },
 ]
