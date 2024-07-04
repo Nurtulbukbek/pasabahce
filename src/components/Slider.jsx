@@ -13,12 +13,12 @@ const slideImages = [
         text: 'Полуостров Камчатка расположен на крайнем востоке Советского Союза, примерно между широтами Киева и Ленинграда. Он вытянут в северо-восточном направлении и, по удачному сравнению '
      },
       {
-        url: 'public/images/sliderBackgrounds/slider-bg-img3.png',
+        url: 'https://images.unsplash.com/photo-1499950617211-a8609a16ad72?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8ZHJpbmslMjBjdXBzfGVufDB8fDB8fHww',
         caption: 'Хватит пить из одноразового! Выбери свой стаканчик!',
         text: 'Полуостров Камчатка расположен на крайнем востоке Советского Союза, примерно между широтами Киева и Ленинграда. Он вытянут в северо-восточном направлении и, по удачному сравнению '
     },
       {
-        url: 'public/images/sliderBackgrounds/slider-bg-img.avif',
+        url: 'https://images.unsplash.com/photo-1489866492941-15d60bdaa7e0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZHJpbmslMjBjdXBzfGVufDB8fDB8fHww',
         caption: 'Забудь о скучных стаканах!',
         text: 'Полуостров Камчатка расположен на крайнем востоке Советского Союза, примерно между широтами Киева и Ленинграда. Он вытянут в северо-восточном направлении и, по удачному сравнению ',
       },
