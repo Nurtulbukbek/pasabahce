@@ -1,6 +1,8 @@
 
 import "../styles/Footer.css"
 
+import imoLogo from "public/images/logos/Imo-logo.png"
+
 function Footer() {
 
     return(
@@ -11,7 +13,7 @@ function Footer() {
 
                      <div className="contacts">
                         <a href="#">
-                            <img src="public/images/logos/Imo-logo.png" alt="" />
+                            <img src={imoLogo} alt="" />
                         </a>
                         <a href="#">
                             <img src="public/images/logos/tiktok-logo.svg" alt="" />
