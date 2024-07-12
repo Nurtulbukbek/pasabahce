@@ -50,10 +50,6 @@
     z-index: 2;
 }
 
-.logo{
-    height: 50px;
-}
-
 .background {
     width: 100%;
 }
@@ -66,6 +62,7 @@
 
 .logo {
     align-items: center;
+    height: 20px;
 }
 
 .header-main {
@@ -197,7 +194,7 @@ ul {
         align-items: center;
         justify-content: space-between;
     }
-    
+
     .header-list {
         display: flex;
         flex-direction: column;
