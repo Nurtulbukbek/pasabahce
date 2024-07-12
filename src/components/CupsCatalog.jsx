@@ -43,7 +43,7 @@ const cupsCatalog = [
         type: "/tea",
         title: 'Бокалы для чая',
         url: "/images/catalogImages/teaCup.png",
-        height: "55%",
+        height: "60%",
     },
     {
         type: "/champagne",
