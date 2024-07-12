@@ -46,7 +46,7 @@ function BakingDishes() {
                                     <div className="exactCatalogItemText">
                                         <div className="exactCatalogItemInfo">
                                             <span>Объем: {cupCatalog.value}ml</span>
-                                            <span>К/л в упаковкe: {cupCatalog.quantity}шт</span>
+                                            <span>К/л в упакsdfsdfовкe: {cupCatalog.quantity}шт</span>
                                         </div>
                                         <div className="exactCatalogItemPrice">
                                             <span>Цена: {cupCatalog.price}TMT</span>
