@@ -13,11 +13,11 @@ const slideImages = [
  },
   {
     url: '/images/sliderBackgrounds/slider-bg-img3.png',
-    caption: 'test slide 2'
+    caption: 'Хватит пить из одноразового! Выбери свой стаканчик!'
   },
   {
     url: '/images/sliderBackgrounds/slider-bg-img.avif',
-    caption: 'test slide 3'
+    caption: 'Забудь о скучных стаканах!'
   },
 ];
 
