@@ -111,7 +111,6 @@ ul {
 
     .slide-text {
         top: 20%;
-        left: 3%;
         width: 80%;
     }
 
@@ -176,7 +175,7 @@ ul {
         transition: 0.3s;
     }
     #burger-toggle:checked ~ ul {
-        top: 70px;
+        top: 50px;
         bottom: 0;
         z-index: 1;
     }

@@ -1,4 +1,4 @@
-
+import "../styles/Catalog.css"
 
 import { Link } from "react-router-dom"
 import SliderCatalog from "../components/SliderCatalog"
