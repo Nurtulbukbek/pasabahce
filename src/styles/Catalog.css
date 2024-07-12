@@ -89,12 +89,7 @@
 
 @media(max-width: 992px) {
     .cupItem {
-        width: 200px;
-        height: 300px;
-    }
-
-    .cupItem img {
-        height: 150px;
-        left: -54px;
+        width: 150px;
+        height: 250px;
     }
 }

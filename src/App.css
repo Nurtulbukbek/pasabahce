@@ -189,7 +189,7 @@ ul {
     }
 
     .header {
-        height: 80px;
+        height: 50px;
         display: flex;
         align-items: center;
         justify-content: space-between;

@@ -10,7 +10,6 @@ const slideImages = [
   {
     url: '/images/sliderBackgrounds/slider-bg-img3.png',
     caption: 'Прозрачность и красота.Стеклянные стаканы для вашего дома',
-    text: 'Полуостров Камчатка расположен на крайнем востоке Советского Союза, примерно между широтами Киева и Ленинграда. Он вытянут в северо-восточном направлении и, по удачному сравнению '
  },
   {
     url: '/images/sliderBackgrounds/slider-bg-img3.png',
@@ -33,7 +32,6 @@ function SliderCatalog() {
               <div className='slider' style={{backgroundImage: `url(${slideImage.url})`,}}>
                 <div className="">
                     <h1 className='slide-h1 slide-text'>{slideImage.caption}</h1>
-                    <h3 className='slide-h3 slide-text'>{slideImage.text}</h3>
                 </div>
               </div>
             </div>
