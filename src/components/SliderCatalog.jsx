@@ -30,7 +30,7 @@ function SliderCatalog() {
         <Slide> 
          {slideImages.map((slideImage, index)=> (
             <div key={index}>
-              <div className='slider' style={{backgroundImage: `url(${slideImage.url})`, height: '80vh'}}>
+              <div className='slider' style={{backgroundImage: `url(${slideImage.url})`,}}>
                 <div className="">
                     <h1 className='slide-h1 slide-text'>{slideImage.caption}</h1>
                     <h3 className='slide-h3 slide-text'>{slideImage.text}</h3>
