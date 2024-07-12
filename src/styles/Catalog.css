@@ -92,4 +92,15 @@
         width: 150px;
         height: 250px;
     }
+
+    .exactCatalogItemTitle {
+        font-size: 15px;
+    }
+
+    .exactCatalogItemInfo {
+        font-size: 12px;
+    }
+    .exactCatalogItemPrice {
+        font-size: 12px;
+    }
 }
