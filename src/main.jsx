@@ -24,6 +24,21 @@ import Leia420765 from './catalogFilesPhotos/sodaPhotos/Leia420765.jsx'
 import Leia420174 from './catalogFilesPhotos/sodaPhotos/Leia420174.jsx'
 import Karat52888 from './catalogFilesPhotos/sodaPhotos/Karat52888.jsx'
 import Karat52885 from './catalogFilesPhotos/sodaPhotos/Karat52885.jsx'
+import Allegra410536 from './catalogFilesPhotos/sodaPhotos/Allegra410536.jsx'
+import Allegra420015 from './catalogFilesPhotos/sodaPhotos/Allegra420015.jsx'
+import Elysia520015 from './catalogFilesPhotos/sodaPhotos/Elysia520015.jsx'
+import Elysia5200014 from './catalogFilesPhotos/sodaPhotos/Elysia5200014.jsx'
+import Elysia520004 from './catalogFilesPhotos/sodaPhotos/Elysia520004.jsx'
+import Timeless52800 from './catalogFilesPhotos/sodaPhotos/Timeless52800.jsx'
+import Timeless52820 from './catalogFilesPhotos/sodaPhotos/Timeless52820.jsx'
+import Timeless51790 from './catalogFilesPhotos/sodaPhotos/Timeless51790.jsx'
+import Timeless52810 from './catalogFilesPhotos/sodaPhotos/Timeless52810.jsx'
+import Sylvana42812 from './catalogFilesPhotos/sodaPhotos/Sylvana42812.jsx'
+import Sylvana42415 from './catalogFilesPhotos/sodaPhotos/Sylvana42415.jsx'
+import Dance42868 from './catalogFilesPhotos/sodaPhotos/Dance42868.jsx'
+import Dance42865 from './catalogFilesPhotos/sodaPhotos/Dance42865.jsx'
+import Amorf420224 from './catalogFilesPhotos/sodaPhotos/Amorf420224.jsx'
+import Pleasuee420103 from './catalogFilesPhotos/sodaPhotos/Pleasuee420103.jsx'
 // ---------vine------
 import Imperial44272 from './catalogFilesPhotos/vinePhotos/imperial44272.jsx'
 import Tulipe44162 from './catalogFilesPhotos/vinePhotos/Tulipe44162.jsx'
@@ -56,6 +71,7 @@ import Pub55289 from './catalogFilesPhotos/beerPhotos/Pub55289.jsx'
 import Pub42528 from './catalogFilesPhotos/beerPhotos/Pub42528.jsx'
 import Pub42477 from './catalogFilesPhotos/beerPhotos/Pub42477.jsx'
 import Bacchus80113 from './catalogFilesPhotos/beerPhotos/Bacchus80113.jsx'
+import Pub42199 from './catalogFilesPhotos/beerPhotos/Pub42199.jsx'
 
 // ---------Decanter---------
 import Frigo80122 from './catalogFilesPhotos/DecanterPhotos/Frigo80122.jsx'
@@ -158,6 +174,66 @@ const router = createBrowserRouter([
     {
         path: '/Karat52885',
         element: <Karat52885/>
+    },
+    {
+        path: '/Allegra410536',
+        element: <Allegra410536/>
+    },
+    {
+        path: '/Allegra420015',
+        element: <Allegra420015/>
+    },
+    {
+        path: '/Elysia520015',
+        element: <Elysia520015/>
+    },
+    {
+        path: '/Elysia5200014',
+        element: <Elysia5200014/>
+    },
+    {
+        path: '/Elysia520004',
+        element: <Elysia520004/>
+    },
+    {
+        path: '/Timeless52800',
+        element: <Timeless52800/>
+    },
+    {
+        path: '/Timeless52820',
+        element: <Timeless52820/>
+    },
+    {
+        path: '/Timeless51790',
+        element: <Timeless51790/>
+    },
+    {
+        path: '/Timeless52810',
+        element: <Timeless52810/>
+    },
+    {
+        path: '/Sylvana42812',
+        element: <Sylvana42812/>
+    },
+    {
+        path: '/Sylvana42415',
+        element: <Sylvana42415/>
+    },
+    {
+        path: '/Dance42868',
+        element: <Dance42868/>
+    },
+    {
+        path: '/Dance42865',
+        element: <Dance42865/>
+    },
+    {
+        path: '/Amorf420224',
+        element: <Amorf420224/>
+    },
+    {
+        path: '/Pleasuee420103',
+        element: <Pleasuee420103/>
     },
 
 // -----------vine-------
@@ -274,6 +350,10 @@ const router = createBrowserRouter([
     {
         path: '/Bacchus80113',
         element: <Bacchus80113/>
+    },
+    {
+        path: '/Pub42199',
+        element: <Pub42199/>
     },
 
 // ---------Decanter--------

@@ -78,6 +78,15 @@ const cupCatalog = [
         url: "/images/catalogItemsImages/beerimgs/Pub42477.png",
         height: "50%",
     },
+    {
+        type: "/Pub42199",
+        title: 'Pub 42199',
+        value: "320",
+        quantity: "6",
+        price: "90",
+        url: "/images/catalogItemsImages/beerimgs/Pub42199.png",
+        height: "50%",
+    },
 ]
 
 function Beer() {
