@@ -24,10 +24,6 @@ import Leia420765 from './catalogFilesPhotos/sodaPhotos/Leia420765.jsx'
 import Leia420174 from './catalogFilesPhotos/sodaPhotos/Leia420174.jsx'
 import Karat52888 from './catalogFilesPhotos/sodaPhotos/Karat52888.jsx'
 import Karat52885 from './catalogFilesPhotos/sodaPhotos/Karat52885.jsx'
-import Leia420765 from './catalogFilesPhotos/sodaPhotos/Leia420765.jsx'
-import Leia420765 from './catalogFilesPhotos/sodaPhotos/Leia420765.jsx'
-import Leia420765 from './catalogFilesPhotos/sodaPhotos/Leia420765.jsx'
-import Leia420765 from './catalogFilesPhotos/sodaPhotos/Leia420765.jsx'
 // ---------vine------
 import Imperial44272 from './catalogFilesPhotos/vinePhotos/imperial44272.jsx'
 import Tulipe44162 from './catalogFilesPhotos/vinePhotos/Tulipe44162.jsx'
@@ -162,22 +158,6 @@ const router = createBrowserRouter([
     {
         path: '/Karat52885',
         element: <Karat52885/>
-    },
-    {
-        path: '/Leia420765',
-        element: <Leia420765/>
-    },
-    {
-        path: '/Leia420765',
-        element: <Leia420765/>
-    },
-    {
-        path: '/Leia420765',
-        element: <Leia420765/>
-    },
-    {
-        path: '/Leia420765',
-        element: <Leia420765/>
     },
 
 // -----------vine-------
