@@ -2,7 +2,7 @@
 function ErrElement() {
     return(
         <>
-            <div className="">Error 4wqsqwssdfgdcgh04@!@!</div>
+            <div className="">Error 4wqssdsdqwssdfgdcgh04@!@!</div>
         </>
     )
 }
