@@ -12,7 +12,7 @@ const cupCatalog = [
         value: "Объем: 60ml",
         quantity: "К/л в упаковке: 6",
         price: "Цена: 80TMT",
-        url: "/images/catalogItemsImages/sodacupA2.png",
+        url: "/images/catalogItemsImages/sodaimgs/sodacupA2.png",
         height: "50%",
     },
     {
@@ -25,12 +25,12 @@ const cupCatalog = [
         height: "50%",
     },
     {
-        type: "/vine",
-        title: 'Imperial 228',
-        value: "Объем: 340ml",
-        quantity: "К/л в упаковке: 6/12",
-        price: "Цена: 120/150TMT",
-        url: "/images/catalogItemsImages/sodacupA2.png",
+        type: "/Casablanca52707",
+        title: 'Casablanca 52707',
+        value: "Объем: 475ml",
+        quantity: "К/л в упаковке: 6",
+        price: "Цена: 175TMT",
+        url: "/images/catalogItemsImages/sodaimgs/Casablanca52707.png",
         height: "50%",
     },
     {

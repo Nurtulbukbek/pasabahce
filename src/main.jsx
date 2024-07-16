@@ -18,6 +18,7 @@ import Tea from './catalogFiles/Tea.jsx'
 // -------soda-----
 import Aquatic41971 from '/src/catalogFilesPhotos/sodaPhotos/Aquatic41971'
 import Valse42294 from './catalogFilesPhotos/sodaPhotos/Valse42294.jsx'
+import Casablanca52707 from './catalogFilesPhotos/sodaPhotos/Casablanca52707.jsx'
 // ---------vine------
 import Imperial44272 from './catalogFilesPhotos/vinePhotos/imperial44272.jsx'
 import Tulipe44162 from './catalogFilesPhotos/vinePhotos/Tulipe44162.jsx'
@@ -128,6 +129,10 @@ const router = createBrowserRouter([
     {
         path: '/Valse42294',
         element: <Valse42294/>
+    },
+    {
+        path: '/Casablanca52707',
+        element: <Casablanca52707/>
     },
 
 // -----------vine-------
