@@ -36,7 +36,6 @@ import Timeless52810 from './catalogFilesPhotos/sodaPhotos/Timeless52810.jsx'
 import Sylvana42812 from './catalogFilesPhotos/sodaPhotos/Sylvana42812.jsx'
 import Sylvana42415 from './catalogFilesPhotos/sodaPhotos/Sylvana42415.jsx'
 import Dance42868 from './catalogFilesPhotos/sodaPhotos/Dance42868.jsx'
-import Dance42865 from './catalogFilesPhotos/sodaPhotos/Dance42865.jsx'
 import Amorf420224 from './catalogFilesPhotos/sodaPhotos/Amorf420224.jsx'
 import Pleasuee420103 from './catalogFilesPhotos/sodaPhotos/Pleasuee420103.jsx'
 // ---------vine------
@@ -222,10 +221,6 @@ const router = createBrowserRouter([
     {
         path: '/Dance42868',
         element: <Dance42868/>
-    },
-    {
-        path: '/Dance42865',
-        element: <Dance42865/>
     },
     {
         path: '/Amorf420224',
