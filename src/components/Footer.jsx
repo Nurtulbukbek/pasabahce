@@ -12,13 +12,13 @@ function Footer() {
 
                      <div className="contacts">
                         <a href="#">
-                            <img src="/images/logos/Imo-logo.png" alt="" />
-                        </a>
-                        <a href="#">
                             <img src="/images/logos/tiktok-logo.svg" alt="" />
                         </a>
                         <a href="#">
                         <img src="/images/logos/insta-logo.png" alt="" />
+                        </a>
+                        <a href="#">
+                            <img src="/images/logos/Imo-logo.png" alt="" />
                         </a>
                         <span>+993 65 123456</span>
                     </div>

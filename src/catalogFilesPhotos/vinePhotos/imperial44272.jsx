@@ -10,7 +10,7 @@ function imperial44272() {
                 photo2 = "/images/catalogImages/vineCup.png"
                 photo3 = "/images/catalogImages/vineCup.png"
                 photo4 = "/images/catalogImages/vineCup.png"
-                price = "190"
+                price = "110/190"
             />
         </>
     )

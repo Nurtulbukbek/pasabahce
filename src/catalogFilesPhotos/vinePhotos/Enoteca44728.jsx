@@ -9,7 +9,7 @@ function Enoteca44728() {
                 photo2 = "/images/catalogItemsImages/vineimgs/Enoteca44728Second.jpg"
                 photo3 = "/images/catalogItemsImages/vineimgs/Enoteca44728Third.jpg"
                 photo4 = "/images/catalogItemsImages/vineimgs/Enoteca44728Fourth.jpg"
-                price = "65/120/225"
+                price = "235"
             />
         </>
     )
