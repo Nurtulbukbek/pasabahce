@@ -5,10 +5,10 @@ function Allegra42043() {
         <>
             <Example
                 name = "Allegra 42043"
-                photo2 = "/images/catalogItemsImages/ryumkaimgs/Allegra42043.png"
-                photo1 = "/images/catalogItemsImages/ryumkaimgs/Allegra42043.png"
-                photo3 = "/images/catalogItemsImages/ryumkaimgs/Allegra42043.png"
-                photo4 = "/images/catalogItemsImages/ryumkaimgs/Allegra42043.png"
+                photo2 = "/images/catalogItemsImages/ryumkaimgs/Allegra42043.jpg"
+                photo1 = "/images/catalogItemsImages/ryumkaimgs/Allegra42043.jpg"
+                photo3 = "/images/catalogItemsImages/ryumkaimgs/Allegra42043.jpg"
+                photo4 = "/images/catalogItemsImages/ryumkaimgs/Allegra42043.jpg"
                 price = "65"
             />
         </>

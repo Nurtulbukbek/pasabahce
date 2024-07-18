@@ -5,10 +5,10 @@ function  Bistro44164() {
         <>
             <Example
                 name = "Bistro 44164"
-                photo1 = "/images/catalogItemsImages/ryumkaimgs/Bistro44164.png"
-                photo2 = "/images/catalogItemsImages/ryumkaimgs/Bistro44164Second.png"
-                photo3 = "/images/catalogItemsImages/ryumkaimgs/Bistro44164.png"
-                photo4 = "/images/catalogItemsImages/ryumkaimgs/Bistro44164Second.png"
+                photo1 = "/images/catalogItemsImages/ryumkaimgs/Bistro44164.jpg"
+                photo2 = "/images/catalogItemsImages/ryumkaimgs/Bistro44164Second.jpg"
+                photo3 = "/images/catalogItemsImages/ryumkaimgs/Bistro44164.jpg"
+                photo4 = "/images/catalogItemsImages/ryumkaimgs/Bistro44164Second.jpg"
                 price = "75/145"
             />
         </>

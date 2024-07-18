@@ -30,7 +30,7 @@ const cupCatalog = [
         value: "Объем: 475ml",
         quantity: "К/л в упаковке: 6",
         price: "Цена: 175TMT",
-        url: "/images/catalogItemsImages/sodaimgs/Casablanca52707.png",
+        url: "/images/catalogItemsImages/sodaimgs/Casablanca52707.jpg",
         height: "50%",
     },
     {
@@ -75,7 +75,7 @@ const cupCatalog = [
         value: "Объем: 355ml",
         quantity: "К/л в упаковке: 1",
         price: "Цена: 16TMT",
-        url: "/images/catalogItemsImages/sodaimgs/Allegra410536.png",
+        url: "/images/catalogItemsImages/sodaimgs/Allegra410536.jpg",
         height: "50%",
     },
     {
@@ -84,7 +84,7 @@ const cupCatalog = [
         value: "Объем: 470ml",
         quantity: "К/л в упаковке: 1",
         price: "Цена: 17TMT",
-        url: "/images/catalogItemsImages/sodaimgs/Allegra420015.png",
+        url: "/images/catalogItemsImages/sodaimgs/Allegra420015.jpg",
         height: "50%",
     },
     {

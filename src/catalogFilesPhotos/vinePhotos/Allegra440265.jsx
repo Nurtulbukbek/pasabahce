@@ -5,10 +5,10 @@ function Allegra440265() {
         <>
             <Example
                 name = "Tulipe 44162"
-                photo1 = "/images/catalogItemsImages/vineimgs/Allegra440265.png`"
-                photo2 = "/images/catalogItemsImages/vineimgs/Allegra440265Second.png"
-                photo3 = "/images/catalogItemsImages/vineimgs/Allegra440265Third.png"
-                photo4 = "/images/catalogItemsImages/vineimgs/Allegra440265Fourth.png"
+                photo1 = "/images/catalogItemsImages/vineimgs/Allegra440265.jpg`"
+                photo2 = "/images/catalogItemsImages/vineimgs/Allegra440265Second.jpg"
+                photo3 = "/images/catalogItemsImages/vineimgs/Allegra440265Third.jpg"
+                photo4 = "/images/catalogItemsImages/vineimgs/Allegra440265Fourth.jpg"
                 price = "60/165/270"
             />
         </>

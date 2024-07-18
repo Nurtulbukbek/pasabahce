@@ -5,10 +5,10 @@ function Vintage440184() {
         <>
             <Example
                 name = "Vintage 440184"
-                photo1 = "/images/catalogItemsImages/vineimgs/Vintage440184.png"
-                photo2 = "/images/catalogItemsImages/vineimgs/Vintage440184.png"
-                photo3 = "/images/catalogItemsImages/vineimgs/Vintage440184.png"
-                photo4 = "/images/catalogItemsImages/vineimgs/Vintage440184.png"
+                photo1 = "/images/catalogItemsImages/vineimgs/Vintage440184.jpg"
+                photo2 = "/images/catalogItemsImages/vineimgs/Vintage440184.jpg"
+                photo3 = "/images/catalogItemsImages/vineimgs/Vintage440184.jpg"
+                photo4 = "/images/catalogItemsImages/vineimgs/Vintage440184.jpg"
                 price = "170"
             />
         </>
