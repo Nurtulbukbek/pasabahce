@@ -5,10 +5,10 @@ function  Köşem43414() {
         <>
             <Example
                 name = "Köşem 43414"
-                photo1 = "/images/catalogItemsImages/decanterimgs/Köşem43414.png"
-                photo2 = "/images/catalogItemsImages/decanterimgs/Köşem43414Second.png"
-                photo3 = "/images/catalogItemsImages/decanterimgs/Köşem43414.png"
-                photo4 = "/images/catalogItemsImages/decanterimgs/Köşem43414Third.png"
+                photo1 = "/images/catalogItemsImages/decanterimgs/Köşem43414.jpg"
+                photo2 = "/images/catalogItemsImages/decanterimgs/Köşem43414Second.jpg"
+                photo3 = "/images/catalogItemsImages/decanterimgs/Köşem43414.jpg"
+                photo4 = "/images/catalogItemsImages/decanterimgs/Köşem43414Third.jpg"
                 price = "35"
             />
         </>

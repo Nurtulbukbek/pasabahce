@@ -5,10 +5,10 @@ function  Frigo80122() {
         <>
             <Example
                 name = "Frigo 80122"
-                photo1 = "/images/catalogItemsImages/decanterimgs/Frigo80122.png"
-                photo2 = "/images/catalogItemsImages/decanterimgs/Frigo80122Second.png"
-                photo3 = "/images/catalogItemsImages/decanterimgs/Frigo80122Third.png"
-                photo4 = "/images/catalogItemsImages/decanterimgs/Frigo80122Fourth.png"
+                photo1 = "/images/catalogItemsImages/decanterimgs/Frigo80122.jpg"
+                photo2 = "/images/catalogItemsImages/decanterimgs/Frigo80122Second.jpg"
+                photo3 = "/images/catalogItemsImages/decanterimgs/Frigo80122Third.jpg"
+                photo4 = "/images/catalogItemsImages/decanterimgs/Frigo80122Fourth.jpg"
                 price = "35"
             />
         </>

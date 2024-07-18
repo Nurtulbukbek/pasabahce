@@ -5,10 +5,10 @@ function Pub55289() {
         <>
             <Example
                 name = "Pub 55289"
-                photo1 = "/images/catalogItemsImages/beerimgs/Pub55289.png"
-                photo2 = "/images/catalogItemsImages/beerimgs/Pub55289Second.png"
-                photo3 = "/images/catalogItemsImages/beerimgs/Pub55289Third.png"
-                photo4 = "/images/catalogItemsImages/beerimgs/Pub55289Fourth.png"
+                photo1 = "/images/catalogItemsImages/beerimgs/Pub55289.jpg"
+                photo2 = "/images/catalogItemsImages/beerimgs/Pub55289Second.jpg"
+                photo3 = "/images/catalogItemsImages/beerimgs/Pub55289Third.jpg"
+                photo4 = "/images/catalogItemsImages/beerimgs/Pub55289Fourth.jpg"
                 price = "65"
             />
         </>

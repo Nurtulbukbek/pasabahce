@@ -10,7 +10,7 @@ const cupCatalog = [
         value: " 600",
         quantity: "1",
         price: " 35",
-        url: "/images/catalogItemsImages/decanterimgs/Frigo80122.png",
+        url: "/images/catalogItemsImages/decanterimgs/Frigo80122.jpg",
         height: "50%",
     },
     {
@@ -19,7 +19,7 @@ const cupCatalog = [
         value: " 750",
         quantity: "1",
         price: " 75",
-        url: "/images/catalogItemsImages/decanterimgs/Köşem43414.png",
+        url: "/images/catalogItemsImages/decanterimgs/Köşem43414.jpg",
         height: "50%",
     },
     {
@@ -28,7 +28,7 @@ const cupCatalog = [
         value: " 600",
         quantity: "1",
         price: " 35",
-        url: "/images/catalogItemsImages/decanterimgs/Bacchus80111.png",
+        url: "/images/catalogItemsImages/decanterimgs/Bacchus80111.jpg",
         height: "50%",
     },
     {
@@ -37,7 +37,7 @@ const cupCatalog = [
         value: " 1000",
         quantity: "1",
         price: " 70",
-        url: "/images/catalogItemsImages/decanterimgs/Bistro43944.png",
+        url: "/images/catalogItemsImages/decanterimgs/Bistro43944.jpg",
         height: "50%",
     },
     {
@@ -46,7 +46,7 @@ const cupCatalog = [
         value: " 1000",
         quantity: "1",
         price: " 35",
-        url: "/images/catalogItemsImages/decanterimgs/Frigo80050.png",
+        url: "/images/catalogItemsImages/decanterimgs/Frigo80050.jpg",
         height: "50%",
     },
     {
@@ -55,7 +55,7 @@ const cupCatalog = [
         value: " 1300",
         quantity: "1",
         price: " 65",
-        url: "/images/catalogItemsImages/decanterimgs/Basic43964.png",
+        url: "/images/catalogItemsImages/decanterimgs/Basic43964.jpg",
         height: "50%",
     },
     {
@@ -64,7 +64,7 @@ const cupCatalog = [
         value: " 1000",
         quantity: "1",
         price: " 70",
-        url: "/images/catalogItemsImages/decanterimgs/Bistro43944.png",
+        url: "/images/catalogItemsImages/decanterimgs/Bistro43944.jpg",
         height: "50%",
     },
     {
@@ -73,7 +73,7 @@ const cupCatalog = [
         value: " 1000",
         quantity: "1",
         price: " 70",
-        url: "/images/catalogItemsImages/decanterimgs/Bistro43944.png",
+        url: "/images/catalogItemsImages/decanterimgs/Bistro43944.jpg",
         height: "50%",
     },
 ]

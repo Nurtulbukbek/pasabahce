@@ -5,10 +5,10 @@ function  Bacchus80111() {
         <>
             <Example
                 name = "Bacchus80111"
-                photo1 = "/images/catalogItemsImages/decanterimgs/Bacchus80111.png"
-                photo2 = "/images/catalogItemsImages/decanterimgs/Bacchus80111Second.png"
-                photo3 = "/images/catalogItemsImages/decanterimgs/Bacchus80111Third.png"
-                photo4 = "/images/catalogItemsImages/decanterimgs/Bacchus80111.png"
+                photo1 = "/images/catalogItemsImages/decanterimgs/Bacchus80111.jpg"
+                photo2 = "/images/catalogItemsImages/decanterimgs/Bacchus80111Second.jpg"
+                photo3 = "/images/catalogItemsImages/decanterimgs/Bacchus80111Third.jpg"
+                photo4 = "/images/catalogItemsImages/decanterimgs/Bacchus80111.jpg"
                 price = "75"
             />
         </>
