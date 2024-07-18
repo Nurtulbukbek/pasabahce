@@ -1,14 +1,17 @@
 .inDeveloping {
-    width: 80vw;
-    height: 70vh;
+    width: 100vw;
+    height: 50vh;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    padding-top: 50px;
 }
 
 .inDeveloping p {
     font-size: 42px;
+    font-weight: 200;
+    margin-top: 30px;
 }
 
 .inDeveloping img {
@@ -25,10 +28,5 @@
 @media(max-width: 720px) {
     .inDeveloping p {
         font-size: 22px;
-    }
-
-    .inDeveloping {
-        width: 90vw;
-        margin: 20px 0px;
     }
 }
