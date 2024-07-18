@@ -12,7 +12,7 @@ const cupCatalog = [
         value: "340",
         quantity: "6/12",
         price: "110/190",
-        url: "/images/catalogImages/vineCup.jpg",
+        url: "/images/catalogImages/vineCup.png",
         height: "50%",
     },
     {

@@ -12,7 +12,7 @@ const cupCatalog = [
         value: "80",
         quantity: "6",
         price: "65",
-        url: "/images/catalogImages/ryumka.jpg",
+        url: "/images/catalogImages/ryumka.png",
         height: "40%",
     },
     {
