@@ -32,10 +32,10 @@ function Header() {
                             <span></span>
                         </label>
                         <ul className="header-list">
-                                <Link to="/" className="burger-links Link">Mainpage</Link>
-                                <Link to="/catalog" className="burger-links Link">Catalog</Link>
-                                <Link to="/about-us" className="burger-links Link">About us</Link>
-                                <Link to="/contacts" className="burger-links Link">Contacts</Link>
+                                <Link to="/" className="burger-links Link">Главная</Link>
+                                <Link to="/catalog" className="burger-links Link">Каталог</Link>
+                                <Link to="/about-us" className="burger-links Link">О нас</Link>
+                                <Link to="/contacts" className="burger-links Link">Контакты</Link>
                         </ul>
                     </div>
                 </header>
