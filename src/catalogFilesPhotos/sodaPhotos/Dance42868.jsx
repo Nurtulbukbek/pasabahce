@@ -5,10 +5,10 @@ function Dance42868() {
         <>
             <Example
                 name = "Dance42868"
-                photo1 = "/images/catalogItemsImages/sodaimgs/Dance42868.png"
-                photo2 = "/images/catalogItemsImages/sodaimgs/Dance42868Second.png"
-                photo3 = "/images/catalogItemsImages/sodaimgs/Dance42868.png"
-                photo4 = "/images/catalogItemsImages/sodaimgs/Dance42868Second.png"
+                photo1 = "/images/catalogItemsImages/sodaimgs/Dance42868.jpg"
+                photo2 = "/images/catalogItemsImages/sodaimgs/Dance42868Second.jpg"
+                photo3 = "/images/catalogItemsImages/sodaimgs/Dance42868.jpg"
+                photo4 = "/images/catalogItemsImages/sodaimgs/Dance42868Second.jpg"
                 price = "100"
             />
         </  >

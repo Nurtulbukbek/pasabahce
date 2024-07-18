@@ -93,7 +93,7 @@ const cupCatalog = [
         value: "Объем: 435ml",
         quantity: "К/л в упаковке: 4",
         price: "Цена: 170TMT",
-        url: "/images/catalogItemsImages/sodaimgs/Elysia520015.png",
+        url: "/images/catalogItemsImages/sodaimgs/Elysia520015.jpg",
         height: "50%",
     },
     {
@@ -102,7 +102,7 @@ const cupCatalog = [
         value: "Объем: 210ml",
         quantity: "К/л в упаковке: 4",
         price: "Цена: 120TMT",
-        url: "/images/catalogItemsImages/sodaimgs/Elysia5200014.png",
+        url: "/images/catalogItemsImages/sodaimgs/Elysia5200014.jpg",
         height: "50%",
     },
     {
@@ -120,7 +120,7 @@ const cupCatalog = [
         value: "Объем: 450ml",
         quantity: "К/л в упаковке: 1",
         price: "Цена: 35TMT",
-        url: "/images/catalogItemsImages/sodaimgs/Timeless52800.png",
+        url: "/images/catalogItemsImages/sodaimgs/Timeless52800.jpg",
         height: "50%",
     },
     {
@@ -129,7 +129,7 @@ const cupCatalog = [
         value: "Объем: 295ml",
         quantity: "К/л в упаковке: 4",
         price: "Цена: 125TMT",
-        url: "/images/catalogItemsImages/sodaimgs/Timeless52820.png",
+        url: "/images/catalogItemsImages/sodaimgs/Timeless52820.jpg",
         height: "50%",
     },
     {
@@ -138,7 +138,7 @@ const cupCatalog = [
         value: "Объем: 355ml",
         quantity: "К/л в упаковке: 1",
         price: "Цена: 28TMT",
-        url: "/images/catalogItemsImages/sodaimgs/Timeless51790.png",
+        url: "/images/catalogItemsImages/sodaimgs/Timeless51790.jpg",
         height: "50%",
     },
     {
@@ -156,7 +156,7 @@ const cupCatalog = [
         value: "Объем: 380ml",
         quantity: "К/л в упаковке: 6",
         price: "Цена: 110TMT",
-        url: "/images/catalogItemsImages/sodaimgs/Sylvana42812.png",
+        url: "/images/catalogItemsImages/sodaimgs/Sylvana42812.jpg",
         height: "50%",
     },
     {
@@ -174,7 +174,7 @@ const cupCatalog = [
         value: "Объем: 320ml",
         quantity: "К/л в упаковке: 6",
         price: "Цена: 100TMT",
-        url: "/images/catalogItemsImages/sodaimgs/Dance42868.png",
+        url: "/images/catalogItemsImages/sodaimgs/Dance42868.jpg",
         height: "50%",
     },
     {
@@ -201,7 +201,7 @@ const cupCatalog = [
         value: "Объем: 330ml",
         quantity: "К/л в упаковке: 6",
         price: "Цена: 120TMT",
-        url: "/images/catalogItemsImages/sodaimgs/Pleasuee420103.png",
+        url: "/images/catalogItemsImages/sodaimgs/Pleasuee420103.jpg",
         height: "50%",
     },
 ]

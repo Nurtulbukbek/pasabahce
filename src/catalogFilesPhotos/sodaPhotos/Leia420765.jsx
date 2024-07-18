@@ -6,10 +6,10 @@ function Leia420765() {
         <>
             <Example
                 name = "Leia420765"
-                photo1 = "/images/catalogItemsImages/sodaimgs/Leia420765.png"
-                photo2 = "/images/catalogItemsImages/sodaimgs/Leia420765.png"
-                photo3 = "/images/catalogItemsImages/sodaimgs/Leia420765.png"
-                photo4 = "/images/catalogItemsImages/sodaimgs/Leia420765.png"
+                photo1 = "/images/catalogItemsImages/sodaimgs/Leia420765.jpg"
+                photo2 = "/images/catalogItemsImages/sodaimgs/Leia420765.jpg"
+                photo3 = "/images/catalogItemsImages/sodaimgs/Leia420765.jpg"
+                photo4 = "/images/catalogItemsImages/sodaimgs/Leia420765.jpg"
                 price = "210"
             />
         </>

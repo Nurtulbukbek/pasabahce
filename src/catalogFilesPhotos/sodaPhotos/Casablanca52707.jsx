@@ -5,10 +5,10 @@ function Casablanca52707() {
         <>
             <Example
                 name = "Casablanca52707"
-                photo1 = "/images/catalogItemsImages/sodaimgs/Casablanca52707.png"
-                photo2 = "/images/catalogItemsImages/sodaimgs/Casablanca52707Second.png"
-                photo3 = "/images/catalogItemsImages/sodaimgs/Casablanca52707.png"
-                photo4 = "/images/catalogItemsImages/sodaimgs/Casablanca52707Second.png"
+                photo1 = "/images/catalogItemsImages/sodaimgs/Casablanca52707.jpg"
+                photo2 = "/images/catalogItemsImages/sodaimgs/Casablanca52707Second.jpg"
+                photo3 = "/images/catalogItemsImages/sodaimgs/Casablanca52707.jpg"
+                photo4 = "/images/catalogItemsImages/sodaimgs/Casablanca52707Second.jpg"
                 price = "175"
             />
         </>

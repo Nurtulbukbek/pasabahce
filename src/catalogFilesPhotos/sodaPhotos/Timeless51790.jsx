@@ -5,9 +5,9 @@ function Timeless51790() {
         <>
             <Example
                 name = "Timeless51790"
-                photo1 = "/images/catalogItemsImages/sodaimgs/Timeless51790.png"
+                photo1 = "/images/catalogItemsImages/sodaimgs/Timeless51790.jpg"
                 photo2 = "/images/catalogItemsImages/sodaimgs/Timeless51790Second.jpg"
-                photo3 = "/images/catalogItemsImages/sodaimgs/Timeless51790.png"
+                photo3 = "/images/catalogItemsImages/sodaimgs/Timeless51790.jpg"
                 photo4 = "/images/catalogItemsImages/sodaimgs/Timeless51790Second.jpg"
                 price = "28"
             />

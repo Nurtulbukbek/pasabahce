@@ -5,7 +5,7 @@ function Sylvana42812() {
         <>
             <Example
                 name = "Sylvana42812"
-                photo1 = "/images/catalogItemsImages/sodaimgs/Sylvana42812.png"
+                photo1 = "/images/catalogItemsImages/sodaimgs/Sylvana42812.jpg"
                 photo2 = "/images/catalogItemsImages/sodaimgs/Sylvana42812Second.jpg"
                 photo3 = "/images/catalogItemsImages/sodaimgs/Sylvana42812Third.jpg"
                 photo4 = "/images/catalogItemsImages/sodaimgs/Sylvana42812Fourth.jpg"
