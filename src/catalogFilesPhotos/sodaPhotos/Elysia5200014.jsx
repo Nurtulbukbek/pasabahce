@@ -9,7 +9,7 @@ function Elysia5200014() {
                 photo2 = "/images/catalogItemsImages/sodaimgs/Elysia5200014Second.png"
                 photo3 = "/images/catalogItemsImages/sodaimgs/Elysia5200014Third.png"
                 photo4 = "/images/catalogItemsImages/sodaimgs/Elysia5200014Fourth.png"
-                price = "60"
+                price = "120"
             />
         </>
     )

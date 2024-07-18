@@ -9,7 +9,7 @@ function Dance42865() {
                 photo2 = "/images/catalogItemsImages/sodaimgs/Dance42865.jpg"
                 photo3 = "/images/catalogItemsImages/sodaimgs/Dance42865.jpg"
                 photo4 = "/images/catalogItemsImages/sodaimgs/Dance42865.png"
-                price = "60"
+                price = "85"
             />
         </>
     )

@@ -5,11 +5,11 @@ function Leia420174() {
     return(
         <>
             <Example
-                name = "Leia420765"
-                photo1 = "/images/catalogItemsImages/sodaimgs/Leia420174.png"
-                photo2 = "/images/catalogItemsImages/sodaimgs/Leia420174.png"
-                photo3 = "/images/catalogItemsImages/sodaimgs/Leia420174.png"
-                photo4 = "/images/catalogItemsImages/sodaimgs/Leia420174.png"
+                name = "Leia420174"
+                photo1 = "/images/catalogItemsImages/sodaimgs/Leia420174.jpg"
+                photo2 = "/images/catalogItemsImages/sodaimgs/Leia420174.jpg"
+                photo3 = "/images/catalogItemsImages/sodaimgs/Leia420174.jpg"
+                photo4 = "/images/catalogItemsImages/sodaimgs/Leia420174.jpg"
                 price = "100"
             />
         </>

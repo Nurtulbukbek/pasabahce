@@ -10,7 +10,7 @@ function Aquatic41971() {
                 photo2 = "/images/catalogItemsImages/sodaimgs/sodacupA2.png"
                 photo3 = "/images/catalogItemsImages/sodaimgs/sodacupA2.png"
                 photo4 = "/images/catalogItemsImages/sodaimgs/sodacupA2.png"
-                price = "60"
+                price = "80"
             />
         </>
     )

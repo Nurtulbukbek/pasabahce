@@ -9,7 +9,7 @@ function Sylvana42415() {
                 photo2 = "/images/catalogItemsImages/sodaimgs/Sylvana42415Second.jpg"
                 photo3 = "/images/catalogItemsImages/sodaimgs/Sylvana42415Third.jpg"
                 photo4 = "/images/catalogItemsImages/sodaimgs/Sylvana42415Fourth.jpg"
-                price = "60"
+                price = "100"
             />
         </>
     )

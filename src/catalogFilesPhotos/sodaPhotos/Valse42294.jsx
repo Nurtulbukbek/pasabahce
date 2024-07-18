@@ -9,7 +9,7 @@ function Valse42294() {
                 photo2 = "/images/catalogItemsImages/sodaimgs/Valse42294.png"
                 photo3 = "/images/catalogItemsImages/sodaimgs/Valse42294.png"
                 photo4 = "/images/catalogItemsImages/sodaimgs/Valse42294.png"
-                price = "60"
+                price = "65"
             />
         </>
     )

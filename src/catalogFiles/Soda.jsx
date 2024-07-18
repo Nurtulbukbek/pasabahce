@@ -93,7 +93,7 @@ const cupCatalog = [
         value: "Объем: 435ml",
         quantity: "К/л в упаковке: 4",
         price: "Цена: 170TMT",
-        url: "/images/catalogItemsImages/sodaimgs/Elysia.png",
+        url: "/images/catalogItemsImages/sodaimgs/Elysia520015.png",
         height: "50%",
     },
     {
@@ -102,7 +102,7 @@ const cupCatalog = [
         value: "Объем: 210ml",
         quantity: "К/л в упаковке: 4",
         price: "Цена: 120TMT",
-        url: "/images/catalogItemsImages/sodaimgs/Elysia5200014.jpg",
+        url: "/images/catalogItemsImages/sodaimgs/Elysia5200014.png",
         height: "50%",
     },
     {

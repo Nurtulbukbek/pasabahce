@@ -5,11 +5,11 @@ function Snap41632() {
         <>
             <Example
                 name = "Snap41632"
-                photo1 = "/images/catalogItemsImages/sodaimgs/Snap41632.png"
-                photo2 = "/images/catalogItemsImages/sodaimgs/Snap41632.png"
-                photo3 = "/images/catalogItemsImages/sodaimgs/Snap41632.png"
-                photo4 = "/images/catalogItemsImages/sodaimgs/Snap41632.png"
-                price = "60"
+                photo1 = "/images/catalogItemsImages/sodaimgs/Snap41632.jpg"
+                photo2 = "/images/catalogItemsImages/sodaimgs/Snap41632.jpg"
+                photo3 = "/images/catalogItemsImages/sodaimgs/Snap41632.jpg"
+                photo4 = "/images/catalogItemsImages/sodaimgs/Snap41632.jpg"
+                price = "65"
             />
         </>
     )

@@ -10,7 +10,7 @@ function Karat52888() {
                 photo2 = "/images/catalogItemsImages/sodaimgs/Karat52888Second.png"
                 photo3 = "/images/catalogItemsImages/sodaimgs/Karat52888.jpg"
                 photo4 = "/images/catalogItemsImages/sodaimgs/Karat52888Second.png"
-                price = "100"
+                price = "95"
             />
         </>
     )
