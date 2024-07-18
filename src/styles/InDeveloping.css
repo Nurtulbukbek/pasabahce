@@ -15,7 +15,7 @@
 }
 
 .inDeveloping img {
-    height: 30%;
+    height: 80%;
 }
 
 
@@ -23,10 +23,17 @@
     .inDeveloping p {
         font-size: 32px;
     }
+
+    /* .inDeveloping img {
+        height: 55%;
+    } */
 }
 
 @media(max-width: 720px) {
     .inDeveloping p {
         font-size: 22px;
     }
+    /* .inDeveloping img {
+        height: 30%;
+    } */
 }
