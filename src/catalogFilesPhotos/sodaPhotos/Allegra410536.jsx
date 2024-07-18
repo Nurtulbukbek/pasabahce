@@ -7,7 +7,7 @@ function Allegra410536() {
                 name = "Allegra410536"
                 photo1 = "/images/catalogItemsImages/sodaimgs/Allegra410536.png"
                 photo2 = "/images/catalogItemsImages/sodaimgs/Allegra410536Second.png"
-                photo3 = "/images/catalogItemsImages/sodaimgs/Allegra410536Third.png"
+                photo3 = "/images/catalogItemsImages/sodaimgs/Allegra410536Third.jpg"
                 photo4 = "/images/catalogItemsImages/sodaimgs/Allegra410536Fourth.png"
                 price = "16"
             />
