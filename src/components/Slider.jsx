@@ -8,15 +8,15 @@ import 'react-slideshow-image/dist/styles.css'
 
 const slideImages = [
     {
-        url: "https://i.pinimg.com/564x/a5/95/85/a59585e08e9bed3050cc7fe1f74597b0.jpg",
+        url: "",
         caption: 'Прозрачность и красота.Стеклянные стаканы для вашего дома',
      },
       {
-        url: 'https://i.pinimg.com/564x/aa/2d/91/aa2d911dc3a5bbee31e293586e8d9673.jpg',
+        url: '/images/sliderBackgrounds/unregulariceCoffeeCups.jpg',
         caption: 'Хватит пить из одноразового! Выбери свой стаканчик!',
     },
       {
-        url: 'https://i.pinimg.com/564x/83/2d/4e/832d4e10d4dec05262aef16f4e5cd8d2.jpg',
+        url: '/images/sliderBackgrounds/iceCoffeeCupsBackGround.jpg',
         caption: 'Забудь о скучных стаканах!',
       },
 ];
