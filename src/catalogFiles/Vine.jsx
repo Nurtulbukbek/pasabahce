@@ -107,7 +107,7 @@ const cupCatalog = [
     },
     {
         type: "/Vine44248",
-        title: '44248',
+        title: 'Vine 44248',
         value: "780",
         quantity: "6",
         price: "250",
