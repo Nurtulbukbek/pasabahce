@@ -15,12 +15,12 @@ const cupCatalog = [
         height: "50%",
     },
     {
-        type: "/Pub55229",
-        title: 'Pub 55229',
-        value: "660",
-        quantity: "2",
-        price: "75",
-        url: "/images/catalogItemsImages/beerimgs/Pub55229.png",
+        type: "/Basic96814",
+        title: 'Basic 96814',
+        value: "500",
+        quantity: "1",
+        price: "68",
+        url: "/images/catalogItemsImages/othersImages/Basic96814.png",
         height: "50%",
     },
     {

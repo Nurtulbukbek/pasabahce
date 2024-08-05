@@ -83,6 +83,7 @@ import Basic43964 from './catalogFilesPhotos/DecanterPhotos/Basic43964.jsx'
 
 //---------others-----------
 import Basic55022 from './catalogFilesPhotos/othersPhotos/Basic55022.jsx'
+import Basic96814 from './catalogFilesPhotos/othersPhotos/Basic96814.jsx'
 
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import './reset.css'
@@ -390,6 +391,10 @@ const router = createBrowserRouter([
 {
     path: '/Basic55022',
     element: <Basic55022/>
+},
+{
+    path: '/Basic96814',
+    element: <Basic96814/>
 },
 
 ])
