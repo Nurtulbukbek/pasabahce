@@ -71,6 +71,7 @@ import Pub42528 from './catalogFilesPhotos/beerPhotos/Pub42528.jsx'
 import Pub42477 from './catalogFilesPhotos/beerPhotos/Pub42477.jsx'
 import Bacchus80113 from './catalogFilesPhotos/beerPhotos/Bacchus80113.jsx'
 import Pub42199 from './catalogFilesPhotos/beerPhotos/Pub42199.jsx'
+import Pub420497 from './catalogFilesPhotos/beerPhotos/Pub420497.jsx'
 
 // ---------Decanter---------
 import Frigo80122 from './catalogFilesPhotos/DecanterPhotos/Frigo80122.jsx'
@@ -352,6 +353,10 @@ const router = createBrowserRouter([
     {
         path: '/Pub42199',
         element: <Pub42199/>
+    },
+    {
+        path: '/Pub420497',
+        element: <Pub420497/>
     },
 
 // ---------Decanter--------
