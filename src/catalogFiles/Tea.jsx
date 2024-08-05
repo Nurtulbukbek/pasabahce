@@ -5,30 +5,12 @@ import Footer from "../components/Footer"
 
 const cupCatalog = [
     {
-        type: "/Pub55299",
-        title: 'Pub 55299',
-        value: "380ml",
-        quantity: "2",
-        price: "60",
-        url: "/images/catalogItemsImages/beerimgs/Pub55299.png",
-        height: "50%",
-    },
-    {
-        type: "/Pub55229",
-        title: 'Pub 55229',
-        value: "660",
-        quantity: "2",
-        price: "75",
-        url: "/images/catalogItemsImages/beerimgs/Pub55229.png",
-        height: "50%",
-    },
-    {
-        type: "/Pub55289",
-        title: 'Pub55289',
-        value: "500",
-        quantity: "2",
-        price: "65",
-        url: "/images/catalogItemsImages/beerimgs/Pub55289.png",
+        type: "/Tea97948",
+        title: 'Tea97948',
+        value: "215ml",
+        quantity: "6",
+        price: "150",
+        url: "/images/catalogItemsImages/teaimgs/Tea97948.jpg",
         height: "50%",
     },
 ]

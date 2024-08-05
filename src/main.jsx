@@ -85,6 +85,9 @@ import Bistro43944 from './catalogFilesPhotos/DecanterPhotos/Bistro43944.jsx'
 import Frigo80050 from './catalogFilesPhotos/DecanterPhotos/Frigo80050.jsx'
 import Basic43964 from './catalogFilesPhotos/DecanterPhotos/Basic43964.jsx'
 
+
+//----------tea---------
+import Tea97948 from './catalogFilesPhotos/TeaFolder/Tea97948.jsx'
 //---------others-----------
 import Basic55022 from './catalogFilesPhotos/othersPhotos/Basic55022.jsx'
 import Basic96814 from './catalogFilesPhotos/othersPhotos/Basic96814.jsx'
@@ -407,6 +410,13 @@ const router = createBrowserRouter([
         path: '/Basic43964',
         element: <Basic43964/>
     },
+
+//----------tea----------
+    {
+        path: '/Tea97948',
+        element: <Tea97948/>
+    },
+
 
 //---------others------
 {
