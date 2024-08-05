@@ -8,7 +8,7 @@ import 'react-slideshow-image/dist/styles.css'
 
 const slideImages = [
     {
-        url: "",
+        url: "/images/sliderBackgrounds/glassCupsSliderBackground.jpg",
         caption: 'Прозрачность и красота.Стеклянные стаканы для вашего дома',
      },
       {
