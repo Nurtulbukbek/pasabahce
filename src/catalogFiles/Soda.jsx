@@ -204,6 +204,33 @@ const cupCatalog = [
         url: "/images/catalogItemsImages/sodaimgs/Pleasuee420103.jpg",
         height: "50%",
     },
+    {
+        type: "/Karat52882",
+        title: 'Karat 52882',
+        value: "Объем: 250ml",
+        quantity: "К/л в упаковке: 6",
+        price: "Цена: 68TMT",
+        url: "/images/catalogItemsImages/sodaimgs/Karat52882.jpg",
+        height: "50%",
+    },
+    {
+        type: "/Bistro44872",
+        title: 'Bistro 44872',
+        value: "Объем: 380ml",
+        quantity: "К/л в упаковке: 6",
+        price: "Цена: 125TMT",
+        url: "/images/catalogItemsImages/sodaimgs/Bistro44872.jpg",
+        height: "50%",
+    },
+    {
+        type: "/52704",
+        title: '52704',
+        value: "Объем: 355ml",
+        quantity: "К/л в упаковке: 6",
+        price: "Цена: 115TMT",
+        url: "/images/catalogItemsImages/sodaimgs/52704.jpg",
+        height: "50%",
+    },
 ]
 
 function Soda() {

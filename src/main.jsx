@@ -38,6 +38,9 @@ import Sylvana42415 from './catalogFilesPhotos/sodaPhotos/Sylvana42415.jsx'
 import Dance42868 from './catalogFilesPhotos/sodaPhotos/Dance42868.jsx'
 import Amorf420224 from './catalogFilesPhotos/sodaPhotos/Amorf420224.jsx'
 import Pleasuee420103 from './catalogFilesPhotos/sodaPhotos/Pleasuee420103.jsx'
+import Karat52882 from './catalogFilesPhotos/sodaPhotos/Karat52882.jsx'
+import Bistro44872 from './catalogFilesPhotos/sodaPhotos/Bistro44872.jsx'
+import Soda52704 from './catalogFilesPhotos/sodaPhotos/52704.jsx'
 // ---------vine------
 import Imperial44272 from './catalogFilesPhotos/vinePhotos/imperial44272.jsx'
 import Tulipe44162 from './catalogFilesPhotos/vinePhotos/Tulipe44162.jsx'
@@ -234,6 +237,18 @@ const router = createBrowserRouter([
     {
         path: '/Pleasuee420103',
         element: <Pleasuee420103/>
+    },
+    {
+        path: '/Karat52882',
+        element: <Karat52882/>
+    },
+    {
+        path: '/Bistro44872',
+        element: <Bistro44872/>
+    },
+    {
+        path: '/52704',
+        element: <Soda52704/>
     },
 
 // -----------vine-------
