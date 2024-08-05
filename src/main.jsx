@@ -40,7 +40,7 @@ import Amorf420224 from './catalogFilesPhotos/sodaPhotos/Amorf420224.jsx'
 import Pleasuee420103 from './catalogFilesPhotos/sodaPhotos/Pleasuee420103.jsx'
 import Karat52882 from './catalogFilesPhotos/sodaPhotos/Karat52882.jsx'
 import Bistro44872 from './catalogFilesPhotos/sodaPhotos/Bistro44872.jsx'
-import Soda52704 from './catalogFilesPhotos/sodaPhotos/52704.jsx'
+import Soda52704 from './catalogFilesPhotos/sodaPhotos/Soda52704.jsx'
 // ---------vine------
 import Imperial44272 from './catalogFilesPhotos/vinePhotos/imperial44272.jsx'
 import Tulipe44162 from './catalogFilesPhotos/vinePhotos/Tulipe44162.jsx'
