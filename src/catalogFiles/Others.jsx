@@ -20,7 +20,7 @@ const cupCatalog = [
         value: "500",
         quantity: "1",
         price: "68",
-        url: "/images/catalogItemsImages/othersImages/Basic96814.png",
+        url: "/images/catalogItemsImages/othersImages/Basic96814.jpg",
         height: "50%",
     },
     {
