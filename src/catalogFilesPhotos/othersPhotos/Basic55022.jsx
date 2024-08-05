@@ -6,10 +6,10 @@ function  Basic55022() {
         <>
             <Example
                 name = "Basic55022"
-                photo1 = "/images/catalogItemsImages/decanterimgs/Basic55022.jpg"
-                photo2 = "/images/catalogItemsImages/decanterimgs/Basic55022Second.jpg"
-                photo3 = "/images/catalogItemsImages/decanterimgs/Basic55022.jpg"
-                photo4 = "/images/catalogItemsImages/decanterimgs/Basic55022Second.jpg"
+                photo1 = "public/images/catalogItemsImages/othersImages/Basic55022.jpg"
+                photo2 = "public/images/catalogItemsImages/othersImages/Basic55022Second.jpg"
+                photo3 = "public/images/catalogItemsImages/othersImages/Basic55022.jpg"
+                photo4 = "public/images/catalogItemsImages/othersImages/Basic55022Second.jpg"
                 price = "65"
             />
         </>
