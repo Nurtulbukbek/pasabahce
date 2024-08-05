@@ -27,12 +27,12 @@ const cupsCatalog = [
         url: "/images/catalogImages/decanter.png",
         height: "65%",
     },
-    {
-        type: "/baking-dishes",
-        title: 'Формы для запекания',
-        url: "/images/catalogImages/bakingDishes.png",
-        height: "50%",
-    },
+    // {
+    //     type: "/baking-dishes",
+    //     title: 'Формы для запекания',
+    //     url: "/images/catalogImages/bakingDishes.png",
+    //     height: "50%",
+    // },
     {
         type: "/beer",
         title: 'Бокалы для пива',
@@ -45,12 +45,12 @@ const cupsCatalog = [
         url: "/images/catalogImages/teaCup.png",
         height: "60%",
     },
-    {
-        type: "/champagne",
-        title: 'Фужеры для шампанского/коктейлей',
-        url: "/images/catalogImages/champagne.png",
-        height: "65%",
-    },
+    // {
+    //     type: "/champagne",
+    //     title: 'Фужеры для шампанского/коктейлей',
+    //     url: "/images/catalogImages/champagne.png",
+    //     height: "65%",
+    // },
     {
         type: "/others",
         title: 'Другие',
