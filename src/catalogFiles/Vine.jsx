@@ -105,6 +105,15 @@ const cupCatalog = [
         url: "/images/catalogItemsImages/vineimgs/Allegra440080.jpg",
         height: "50%",
     },
+    {
+        type: "/Vine44248",
+        title: '44248',
+        value: "780",
+        quantity: "6",
+        price: "250",
+        url: "/images/catalogItemsImages/vineimgs/Vine44248.jpg",
+        height: "50%",
+    },
 ]
 
 function Vine() {

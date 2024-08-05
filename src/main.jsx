@@ -53,6 +53,7 @@ import Isabella440272 from './catalogFilesPhotos/vinePhotos/Isabella440272.jsx'
 import Allegra440265 from './catalogFilesPhotos/vinePhotos/Allegra440265.jsx'
 import Amber440275 from './catalogFilesPhotos/vinePhotos/Amber440275.jsx'
 import Allegra440080 from './catalogFilesPhotos/vinePhotos/Allegra440080.jsx'
+import Vine44248 from './catalogFilesPhotos/vinePhotos/Vine44248.jsx'
 
 // --------ryumki------
 import Dance42864 from './catalogFilesPhotos/ryumkaPhotos/Dance42864.jsx'
@@ -296,6 +297,11 @@ const router = createBrowserRouter([
         path: '/Allegra440080',
         element: <Allegra440080/>
     },
+    {
+        path: '/Vine44248',
+        element: <Vine44248/>
+    },
+
 
 
 // ---------ryumka------
