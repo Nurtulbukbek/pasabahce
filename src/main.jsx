@@ -251,7 +251,7 @@ const router = createBrowserRouter([
         element: <Bistro44872/>
     },
     {
-        path: '/52704',
+        path: '/Soda52704',
         element: <Soda52704/>
     },
 

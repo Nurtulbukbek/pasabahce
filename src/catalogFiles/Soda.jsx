@@ -223,8 +223,8 @@ const cupCatalog = [
         height: "50%",
     },
     {
-        type: "/52704",
-        title: '52704',
+        type: "/Soda52704",
+        title: 'Soda 52704',
         value: "Объем: 355ml",
         quantity: "К/л в упаковке: 6",
         price: "Цена: 115TMT",
