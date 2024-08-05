@@ -6,12 +6,12 @@ import Footer from "../components/Footer"
 
 const cupCatalog = [
     {
-        type: "/Pub55299",
-        title: 'Pub 55299',
-        value: "380ml",
-        quantity: "2",
-        price: "60",
-        url: "/images/catalogItemsImages/beerimgs/Pub55299.png",
+        type: "/Basic55022",
+        title: 'Basic 55022',
+        value: "259ml",
+        quantity: "1",
+        price: "65",
+        url: "/images/catalogItemsImages/othersImages/Basic55022Second.jpg",
         height: "50%",
     },
     {

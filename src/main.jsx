@@ -80,6 +80,9 @@ import Bistro43944 from './catalogFilesPhotos/DecanterPhotos/Bistro43944.jsx'
 import Frigo80050 from './catalogFilesPhotos/DecanterPhotos/Frigo80050.jsx'
 import Basic43964 from './catalogFilesPhotos/DecanterPhotos/Basic43964.jsx'
 
+//---------others-----------
+import Basic55022 from './catalogFilesPhotos/othersPhotos/Basic55022.jsx'
+
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import './reset.css'
 
@@ -377,6 +380,13 @@ const router = createBrowserRouter([
         path: '/Basic43964',
         element: <Basic43964/>
     },
+
+//---------others------
+{
+    path: '/Basic55022',
+    element: <Basic55022/>
+},
+
 ])
 
 ReactDOM.createRoot(document.getElementById('root')).render(
