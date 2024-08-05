@@ -11,7 +11,7 @@ const cupCatalog = [
         value: "259ml",
         quantity: "1",
         price: "65",
-        url: "/images/catalogItemsImages/othersImages/Basic55022Second.jpg",
+        url: "/images/catalogItemsImages/othersImages/Basic55022.jpg",
         height: "50%",
     },
     {
