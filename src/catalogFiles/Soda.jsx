@@ -228,7 +228,7 @@ const cupCatalog = [
         value: "Объем: 355ml",
         quantity: "К/л в упаковке: 6",
         price: "Цена: 115TMT",
-        url: "/images/catalogItemsImages/sodaimgs/52704.jpg",
+        url: "/images/catalogItemsImages/sodaimgs/Soda52704.jpg",
         height: "50%",
     },
 ]
