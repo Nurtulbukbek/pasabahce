@@ -123,6 +123,9 @@ ul {
     .burger {
         margin-right: 20px;
     }
+    .burger-links{
+        margin-bottom: 10px;
+    }
     label  {
         display: block;
         position: relative;
