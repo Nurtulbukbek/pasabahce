@@ -124,7 +124,7 @@ ul {
         margin-right: 20px;
     }
     .burger-links{
-        margin-top: 100px;
+        margin-top: 80px;
     }
     label  {
         display: block;
@@ -166,7 +166,7 @@ ul {
         display: block;
         color: white;
         position: fixed;
-        left: 0px;
+        left: 120px;
         right: 0px;
         background: #151515;
         padding-top: 100px;
