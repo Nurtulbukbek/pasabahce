@@ -124,7 +124,7 @@ ul {
         margin-right: 20px;
     }
     .burger-links{
-        margin-bottom: 10px;
+        margin-top: 100px;
     }
     label  {
         display: block;
@@ -200,7 +200,6 @@ ul {
     .header-list {
         display: flex;
         flex-direction: column;
-        justify-content: space-around;
     }
 
 }
