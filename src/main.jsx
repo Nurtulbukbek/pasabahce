@@ -37,10 +37,25 @@ import Sylvana42812 from './catalogFilesPhotos/sodaPhotos/Sylvana42812.jsx'
 import Sylvana42415 from './catalogFilesPhotos/sodaPhotos/Sylvana42415.jsx'
 import Dance42868 from './catalogFilesPhotos/sodaPhotos/Dance42868.jsx'
 import Amorf420224 from './catalogFilesPhotos/sodaPhotos/Amorf420224.jsx'
-import Pleasuee420103 from './catalogFilesPhotos/sodaPhotos/Pleasuee420103.jsx'
+import Pleasure420103 from './catalogFilesPhotos/sodaPhotos/Pleasure420103.jsx'
 import Karat52882 from './catalogFilesPhotos/sodaPhotos/Karat52882.jsx'
-import Bistro44872 from './catalogFilesPhotos/sodaPhotos/Bistro44872.jsx'
+// import Bistro44872 from './catalogFilesPhotos/sodaPhotos/Bistro44872.jsx'
 import Soda52704 from './catalogFilesPhotos/sodaPhotos/Soda52704.jsx'
+import Aquatic42975 from './catalogFilesPhotos/sodaPhotos/Aquatic42975.jsx'
+import Basic55531 from './catalogFilesPhotos/sodaPhotos/Basic55531.jsx'
+import Basic520102 from './catalogFilesPhotos/sodaPhotos/Basic520102.jsx'
+import Bingo440511 from './catalogFilesPhotos/sodaPhotos/Bingo440511.jsx'
+import Allegra41536 from './catalogFilesPhotos/sodaPhotos/Allegra41536.jsx'
+import Kosem42083 from './catalogFilesPhotos/sodaPhotos/Kosem42083.jsx'
+import Luna42338 from './catalogFilesPhotos/sodaPhotos/Luna42338.jsx'
+import Luna42348 from './catalogFilesPhotos/sodaPhotos/Luna42348.jsx'
+import Luna42378 from './catalogFilesPhotos/sodaPhotos/Luna42378.jsx'
+import Side42253 from './catalogFilesPhotos/sodaPhotos/Side42253.jsx'
+import Side42435 from './catalogFilesPhotos/sodaPhotos/Side42435.jsx'
+import Side42884 from './catalogFilesPhotos/sodaPhotos/Side42884.jsx'
+import Tango42949 from './catalogFilesPhotos/sodaPhotos/Tango42949.jsx'
+import Valse41536 from './catalogFilesPhotos/sodaPhotos/Valse41536.jsx'
+import Valse42949 from './catalogFilesPhotos/sodaPhotos/Valse42949.jsx'
 // ---------vine------
 import Imperial44272 from './catalogFilesPhotos/vinePhotos/imperial44272.jsx'
 import Tulipe44162 from './catalogFilesPhotos/vinePhotos/Tulipe44162.jsx'
@@ -54,6 +69,13 @@ import Allegra440265 from './catalogFilesPhotos/vinePhotos/Allegra440265.jsx'
 import Amber440275 from './catalogFilesPhotos/vinePhotos/Amber440275.jsx'
 import Allegra440080 from './catalogFilesPhotos/vinePhotos/Allegra440080.jsx'
 import Vine44248 from './catalogFilesPhotos/vinePhotos/Vine44248.jsx'
+import Bistro44188 from './catalogFilesPhotos/vinePhotos/Bistro44188.jsx'
+import Bistro44411 from './catalogFilesPhotos/vinePhotos/Bistro44411.jsx'
+import Charante44816 from './catalogFilesPhotos/vinePhotos/Charante44816.jsx'
+import Charante440218 from './catalogFilesPhotos/vinePhotos/Charante440218.jsx'
+import Enoteca44248 from './catalogFilesPhotos/vinePhotos/Enoteca44248.jsx'
+import Tulipe44163 from './catalogFilesPhotos/vinePhotos/Tulipe44163.jsx'
+import Karat440148 from './catalogFilesPhotos/vinePhotos/Karat440148.jsx'
 
 // --------ryumki------
 import Dance42864 from './catalogFilesPhotos/ryumkaPhotos/Dance42864.jsx'
@@ -66,6 +88,12 @@ import Retro440074 from './catalogFilesPhotos/ryumkaPhotos/Retro440074.jsx'
 import Vintage440182 from './catalogFilesPhotos/ryumkaPhotos/Vintage440182.jsx'
 import Amber440286 from './catalogFilesPhotos/ryumkaPhotos/Amber440286.jsx'
 import Bistro44164 from './catalogFilesPhotos/ryumkaPhotos/Bistro44164.jsx'
+import Bingo42284 from './catalogFilesPhotos/ryumkaPhotos/Bingo42284.jsx'
+import Dalida440142 from './catalogFilesPhotos/ryumkaPhotos/Dalida440142.jsx'
+import Side52837 from './catalogFilesPhotos/ryumkaPhotos/Side52837.jsx'
+import Sylvana42244 from './catalogFilesPhotos/ryumkaPhotos/Sylvana42244.jsx'
+import Elysia520242 from './catalogFilesPhotos/ryumkaPhotos/Elysia520242.jsx'
+import Luna42043 from './catalogFilesPhotos/ryumkaPhotos/Luna42043.jsx'
 
 // ----------beer--------
 import Pub55299 from './catalogFilesPhotos/beerPhotos/Pub5529.jsx'
@@ -76,6 +104,15 @@ import Pub42477 from './catalogFilesPhotos/beerPhotos/Pub42477.jsx'
 import Bacchus80113 from './catalogFilesPhotos/beerPhotos/Bacchus80113.jsx'
 import Pub42199 from './catalogFilesPhotos/beerPhotos/Pub42199.jsx'
 import Pub420497 from './catalogFilesPhotos/beerPhotos/Pub420497.jsx'
+import Bistro44417 from './catalogFilesPhotos/beerPhotos/Bistro44417.jsx'
+import Pub55341 from './catalogFilesPhotos/beerPhotos/Pub55341.jsx'
+import Pub55861 from './catalogFilesPhotos/beerPhotos/Pub55861.jsx'
+
+//-----------Champagne------------
+import Enoteca440161 from './catalogFilesPhotos/champagnePhotos/Enoteca440161.jsx'
+import Bistro44410 from './catalogFilesPhotos/champagnePhotos/Bistro44410.jsx'
+import Tulipe44160 from './catalogFilesPhotos/champagnePhotos/Tulipe44160.jsx'
+import Vintage440283 from './catalogFilesPhotos/champagnePhotos/Vintage440283.jsx'
 
 // ---------Decanter---------
 import Frigo80122 from './catalogFilesPhotos/DecanterPhotos/Frigo80122.jsx'
@@ -85,12 +122,51 @@ import Bistro43944 from './catalogFilesPhotos/DecanterPhotos/Bistro43944.jsx'
 import Frigo80050 from './catalogFilesPhotos/DecanterPhotos/Frigo80050.jsx'
 import Basic43964 from './catalogFilesPhotos/DecanterPhotos/Basic43964.jsx'
 
+// ----------tea---------
+// import Tea97948 from './catalogFilesPhotos/TeaFolder/Tea97948.jsx'
+import Chroma55813 from './catalogFilesPhotos/teaFolder/Chroma55813.jsx'
+import Tashkent96806 from './catalogFilesPhotos/teaFolder/Tashkent96806.jsx'
+import TeaCoffee55411 from './catalogFilesPhotos/teaFolder/TeaCoffee55411.jsx'
+import Timeless42881 from './catalogFilesPhotos/teaFolder/Timeless42881.jsx'
 
-//----------tea---------
-import Tea97948 from './catalogFilesPhotos/TeaFolder/Tea97948.jsx'
 //---------others-----------
 import Basic55022 from './catalogFilesPhotos/othersPhotos/Basic55022.jsx'
 import Basic96814 from './catalogFilesPhotos/othersPhotos/Basic96814.jsx'
+import Aurora95834 from './catalogFilesPhotos/othersPhotos/Aurora95834.jsx'
+import Bistro54036 from './catalogFilesPhotos/othersPhotos/Bistro54036.jsx'
+import BlackWhite80030 from './catalogFilesPhotos/othersPhotos/BlackWhite80030.jsx'
+import Borcam59003 from './catalogFilesPhotos/othersPhotos/Borcam59003.jsx'
+import Borcam59013 from './catalogFilesPhotos/othersPhotos/Borcam59013.jsx'
+import Borcam59014 from './catalogFilesPhotos/othersPhotos/Borcam59014.jsx'
+import Borcam59024 from './catalogFilesPhotos/othersPhotos/Borcam59024.jsx'
+import Borcam59052 from './catalogFilesPhotos/othersPhotos/Borcam59052.jsx'
+import Borcam59062 from './catalogFilesPhotos/othersPhotos/Borcam59062.jsx'
+import Borcam59204 from './catalogFilesPhotos/othersPhotos/Borcam59204.jsx'
+import Borcam59544 from './catalogFilesPhotos/othersPhotos/Borcam59544.jsx'
+import Ceshni97424 from './catalogFilesPhotos/othersPhotos/Ceshni97424.jsx'
+import Cesni97560 from './catalogFilesPhotos/othersPhotos/Cesni97560.jsx'
+import Flora43267 from './catalogFilesPhotos/othersPhotos/Flora43267.jsx'
+import Flora43966 from './catalogFilesPhotos/othersPhotos/Flora43966.jsx'
+import Homemade80383 from './catalogFilesPhotos/othersPhotos/Homemade80383.jsx'
+import IceVilley51008 from './catalogFilesPhotos/othersPhotos/IceVilley51008.jsx'
+import IceVilley41016 from './catalogFilesPhotos/othersPhotos/IceVilley41016.jsx'
+import IceVilley51068 from './catalogFilesPhotos/othersPhotos/IceVilley51068.jsx'
+import Kanya54332 from './catalogFilesPhotos/othersPhotos/Kanya54332.jsx'
+import Karat96326 from './catalogFilesPhotos/othersPhotos/Karat96326.jsx'
+import KitchenSlim96762 from './catalogFilesPhotos/othersPhotos/KitchenSlim96762.jsx'
+import KitchenSlim96763 from './catalogFilesPhotos/othersPhotos/KitchenSlim96763.jsx'
+import Kosem54076 from './catalogFilesPhotos/othersPhotos/Kosem54076.jsx'
+import Kremlin97624 from './catalogFilesPhotos/othersPhotos/Kremlin97624.jsx'
+import Kremlin97626 from './catalogFilesPhotos/othersPhotos/Kremlin97626.jsx'
+import Lacy96136 from './catalogFilesPhotos/othersPhotos/Lacy96136.jsx'
+import Patissiere95117 from './catalogFilesPhotos/othersPhotos/Patissiere95117.jsx'
+import Patissiere95200 from './catalogFilesPhotos/othersPhotos/Patissiere95200.jsx'
+import Patissiere98259 from './catalogFilesPhotos/othersPhotos/Patissiere98259.jsx'
+import Piknik54646 from './catalogFilesPhotos/othersPhotos/Piknik54646.jsx'
+import Timeless51759 from './catalogFilesPhotos/othersPhotos/Timeless51759.jsx'
+import Viva96374 from './catalogFilesPhotos/othersPhotos/Viva96374.jsx'
+import Village43824 from './catalogFilesPhotos/othersPhotos/Village43824.jsx'
+import Woody42338 from './catalogFilesPhotos/othersPhotos/Woody42338.jsx'
 
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import './reset.css'
@@ -239,20 +315,84 @@ const router = createBrowserRouter([
         element: <Amorf420224/>
     },
     {
-        path: '/Pleasuee420103',
-        element: <Pleasuee420103/>
+        path: '/Pleasure420103',
+        element: <Pleasure420103/>
     },
     {
         path: '/Karat52882',
         element: <Karat52882/>
     },
-    {
-        path: '/Bistro44872',
-        element: <Bistro44872/>
-    },
+    // {
+    //     path: '/Bistro4487',
+    //     element: <Bistro44872/>
+    // },
     {
         path: '/Soda52704',
         element: <Soda52704/>
+    },
+    {
+        path: '/Aquatic42975',
+        element: <Aquatic42975/>
+    },
+    {
+        path: '/Basic55531',
+        element: <Basic55531/>
+    },
+    {
+        path: '/Basic520102',
+        element: <Basic520102/>
+    },
+    {
+        path: '/Bingo440511',
+        element: <Bingo440511/>
+    },
+    {
+        path: '/Allegra41536',
+        element: <Allegra41536/>
+    },
+    {
+        path: '/Kosem42083',
+        element: <Kosem42083/>
+    },
+    {
+        path: '/Luna42338',
+        element: <Luna42338/>
+    },
+    {
+        path: '/Luna42348',
+        element: <Luna42348/>
+    },
+    {
+        path: '/Luna42378',
+        element: <Luna42378/>
+    },
+    {
+        path: '/Pleasure420103',
+        element: <Pleasure420103/>
+    },
+    {
+        path: '/Side42253',
+        element: <Side42253/>
+    },
+    {
+        path: '/Side42884',
+        element: <Side42884/>
+    },
+    {
+        path: '/Side42435',
+        element: <Side42435/>
+    },
+    {
+        path: '/Tango42949',
+        element: <Tango42949/>
+    },
+    {
+        path: '/Valse41536',
+        element: <Valse41536/>
+    },
+    {
+        path: '/Valse42949',
+        element: <Valse42949/>
     },
 
 // -----------vine-------
@@ -304,6 +444,34 @@ const router = createBrowserRouter([
         path: '/Vine44248',
         element: <Vine44248/>
     },
+    {
+        path: '/Bistro44188',
+        element: <Bistro44188/>
+    },
+    {
+        path: '/Bistro44411',
+        element: <Bistro44411/>
+    },
+    {
+        path: '/Charante44816',
+        element: <Charante44816/>
+    },
+    {
+        path: '/Charante440218',
+        element: <Charante440218/>
+    },
+    {
+        path: '/Enoteca44248',
+        element: <Enoteca44248/>
+    },
+    {
+        path: '/Tulipe44163',
+        element: <Tulipe44163/>
+    },
+    {
+        path: '/Karat440148',
+        element: <Karat440148/>
+    },
 
 
 
@@ -348,6 +516,30 @@ const router = createBrowserRouter([
         path: '/Bistro44164',
         element: <Bistro44164/>
     },
+    {
+        path: '/Bingo42284',
+        element: <Bingo42284/>
+    },
+    {
+        path: '/Dalida440142',
+        element: <Dalida440142/>
+    },
+    {
+        path: '/Side52837',
+        element: <Side52837/>
+    },
+    {
+        path: '/Sylvana42244',
+        element: <Sylvana42244/>
+    },
+    {
+        path: '/Luna42043',
+        element: <Luna42043/>
+    },
+    {
+        path: '/Elysia520242',
+        element: <Elysia520242/>
+    },
 
 // -------beer-----
 
@@ -383,6 +575,37 @@ const router = createBrowserRouter([
         path: '/Pub420497',
         element: <Pub420497/>
     },
+    {
+        path: '/Bistro44417',
+        element: <Bistro44417/>
+    },
+    {
+        path: '/Pub55341',
+        element: <Pub55341/>
+    },
+    {
+        path: '/Pub55861',
+        element: <Pub55861/>
+    },
+
+//------------Champagne------------
+
+{
+    path: '/Enoteca440161',
+    element: <Enoteca440161/>
+},
+{
+    path: '/Bistro44410',
+    element: <Bistro44410/>
+},
+{
+    path: '/Tulipe44160',
+    element: <Tulipe44160/>
+},
+{
+    path: '/Vintage440283',
+    element: <Vintage440283/>
+},
 
 // ---------Decanter--------
 
@@ -412,9 +635,25 @@ const router = createBrowserRouter([
     },
 
 //----------tea----------
+    // {
+    //     path: '/Tea97948',
+    //     element: <Tea97948/>
+    // },
     {
-        path: '/Tea97948',
-        element: <Tea97948/>
+        path: '/Chroma55813',
+        element: <Chroma55813/>
+    },
+    {
+        path: '/Tashkent96806',
+        element: <Tashkent96806/>
+    },
+    {
+        path: '/TeaCoffee55411',
+        element: <TeaCoffee55411/>
+    },
+    {
+        path: '/Timeless42881',
+        element: <Timeless42881/>
     },
 
 
@@ -426,6 +665,146 @@ const router = createBrowserRouter([
 {
     path: '/Basic96814',
     element: <Basic96814/>
+},
+{
+    path: '/Aurora95834',
+    element: <Aurora95834/>
+},
+{
+    path: '/Bistro54036',
+    element: <Bistro54036/>
+},
+{
+    path: '/BasicBlackWhite80030',
+    element: <BlackWhite80030/>
+},
+{
+    path: '/Borcam59003',
+    element: <Borcam59003/>
+},
+{
+    path: '/Borcam59013',
+    element: <Borcam59013/>
+},
+{
+    path: '/Borcam59014',
+    element: <Borcam59014/>
+},
+{
+    path: '/Borcam59024',
+    element: <Borcam59024/>
+},
+{
+    path: '/Borcam59052',
+    element: <Borcam59052/>
+},
+{
+    path: '/Borcam59062',
+    element: <Borcam59062/>
+},
+{
+    path: '/Borcam59204',
+    element: <Borcam59204/>
+},
+{
+    path: '/Borcam59544',
+    element: <Borcam59544/>
+},
+{
+    path: '/Ceshni97424',
+    element: <Ceshni97424/>
+},
+{
+    path: '/Cesni97560',
+    element: <Cesni97560/>
+},
+{
+    path: '/Flora43267',
+    element: <Flora43267/>
+},
+{
+    path: '/Flora43966',
+    element: <Flora43966/>
+},
+{
+    path: '/Homemade80383',
+    element: <Homemade80383/>
+},
+{
+    path: '/Homemade80383',
+    element: <Homemade80383/>
+},
+{
+    path: '/IceVilley51008',
+    element: <IceVilley51008/>
+},
+{
+    path: '/IceVilley41016',
+    element: <IceVilley41016/>
+},
+{
+    path: '/IceVilley51068',
+    element: <IceVilley51068/>
+},
+{
+    path: '/Kanya54332',
+    element: <Kanya54332/>
+},
+{
+    path: '/Karat96326',
+    element: <Karat96326/>
+},
+{
+    path: '/KitchenSlim96762',
+    element: <KitchenSlim96762/>
+},
+{
+    path: '/KitchenSlim96763',
+    element: <KitchenSlim96763/>
+},
+{
+    path: '/Kosem54076',
+    element: <Kosem54076/>
+},
+{
+    path: '/Kremlin97624',
+    element: <Kremlin97624/>
+},
+{
+    path: '/Kremlin97626',
+    element: <Kremlin97626/>
+},
+{
+    path: '/Lacy96136',
+    element: <Lacy96136/>
+},
+{
+    path: '/Patissiere95117',
+    element: <Patissiere95117/>
+},
+{
+    path: '/Patissiere98259',
+    element: <Patissiere98259/>
+},
+{
+    path: '/Piknik54646',
+    element: <Piknik54646/>
+},
+{
+    path: '/Timeless51759',
+    element: <Timeless51759/>
+},
+{
+    path: '/Viva96374',
+    element: <Viva96374/>
+},
+{
+    path: '/Village43824',
+    element: <Village43824/>
+},
+{
+    path: '/Woody42338',
+    element: <Woody42338/>
 },
 
 ])

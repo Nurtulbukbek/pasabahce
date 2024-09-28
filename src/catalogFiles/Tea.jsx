@@ -11,6 +11,42 @@ const cupCatalog = [
         quantity: "6",
         price: "150",
         url: "/images/catalogItemsImages/teaimgs/Tea97948.jpg",
+        height: "40%",
+    },
+    {
+        type: "/Chroma55813",
+        title: 'Chroma 55813',
+        value: "370ml",
+        quantity: "2",
+        price: "50",
+        url: "/images/catalogItemsImages/teaimgs/Chroma55813.png",
+        height: "50%",
+    },
+    {
+        type: "/Tashkent96806",
+        title: 'Tashkent 96806',
+        value: "260ml",
+        quantity: "2",
+        price: "70",
+        url: "/images/catalogItemsImages/teaimgs/Tashkent96806.png",
+        height: "40%",
+    },
+    {
+        type: "/TeaCoffee55411",
+        title: 'Tea & coffee55411',
+        value: "170ml",
+        quantity: "6",
+        price: "125",
+        url: "/images/catalogItemsImages/teaimgs/Tea&coffee55411.png",
+        height: "50%",
+    },
+    {
+        type: "/Timeless42881",
+        title: 'Timeless 42881',
+        value: "170ml",
+        quantity: "6",
+        price: "125",
+        url: "/images/catalogItemsImages/teaimgs/Timeless42881.png",
         height: "50%",
     },
 ]
@@ -22,7 +58,7 @@ function Tea() {
                 <SliderCatalog/>
 
                 <div className="container">
-                <p className="catalogTitle">Бокалы для напитков</p>
+                <p className="catalogTitle">Бокалы для чая</p>
                 
                 <div className="cupItemContainer">
                     {cupCatalog.map(cupCatalog => (

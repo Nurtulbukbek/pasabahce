@@ -6,8 +6,8 @@ function  Retro440074() {
             <Example
                 name = "Retro 440074"
                 photo1 = "/images/catalogItemsImages/ryumkaimgs/Retro440074.jpg"
-                photo2 = "/images/catalogItemsImages/ryumkaimgs/Retro440074.jpg"
-                photo3 = "/images/catalogItemsImages/ryumkaimgs/Retro440074.jpg"
+                photo2 = "/images/catalogItemsImages/ryumkaimgs/Retro440074Second.jpg"
+                photo3 = "/images/catalogItemsImages/ryumkaimgs/Retro440074Third.jpg"
                 photo4 = "/images/catalogItemsImages/ryumkaimgs/Retro440074.jpg"
                 price = "135"
             />

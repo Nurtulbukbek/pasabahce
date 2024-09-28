@@ -45,12 +45,12 @@ const cupsCatalog = [
         url: "/images/catalogImages/teaCup.png",
         height: "60%",
     },
-    // {
-    //     type: "/champagne",
-    //     title: 'Фужеры для шампанского/коктейлей',
-    //     url: "/images/catalogImages/champagne.png",
-    //     height: "65%",
-    // },
+    {
+        type: "/champagne",
+        title: 'Фужеры для шампанского/коктейлей',
+        url: "/images/catalogImages/champagne.png",
+        height: "65%",
+    },
     {
         type: "/others",
         title: 'Другие',

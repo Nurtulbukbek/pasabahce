@@ -5,10 +5,10 @@ function Tea97948() {
         <>
             <Example
                 name = "Tea 97948"
-                photo1 = "/images/catalogItemsImages/teaimgs/Tea97948.jpg"
-                photo2 = "/images/catalogItemsImages/teaimgs/Tea97948Second.jpg"
-                photo3 = "/images/catalogItemsImages/teaimgs/Tea97948Third.jpg"
-                photo4 = "/images/catalogItemsImages/teaimgs/Tea97948Fourth.jpg"
+                photo1 = "/images/catalogItemsImages/teaimgs/Tea97948.png"
+                photo2 = "/images/catalogItemsImages/teaimgs/Tea97948Second.png"
+                photo3 = "/images/catalogItemsImages/teaimgs/Tea97948Third.png"
+                photo4 = "/images/catalogItemsImages/teaimgs/Tea97948Fourth.png"
                 price = "250"
             />
         </>
