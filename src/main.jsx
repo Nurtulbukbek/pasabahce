@@ -640,10 +640,10 @@ const router = createBrowserRouter([
     },
 
 //----------tea----------
-    {
-        path: '/Tea97948',
-        element: <Tea97948/>
-    },
+    // {
+    //     path: '/Tea97948',
+    //     element: <Tea97948/>
+    // },
     // {
     //     path: '/Chroma55813',
     //     element: <Chroma55813/>
