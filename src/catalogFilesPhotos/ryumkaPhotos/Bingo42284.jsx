@@ -5,10 +5,10 @@ function  Bingo42284() {
         <>
             <Example
                 name = "Bingo42284"
-                photo1 = "/images/catalogItemsImages/ryumkaimgs/Bingo42284.jpg"
-                photo2 = "/images/catalogItemsImages/ryumkaimgs/Bingo42284Second.jpg"
-                photo3 = "/images/catalogItemsImages/ryumkaimgs/Bingo42284Third.jpg"
-                photo4 = "/images/catalogItemsImages/ryumkaimgs/Bingo42284.jpg"
+                photo1 = "/images/catalogItemsImages/ryumkaimgs/Bingo42284.png"
+                photo2 = "/images/catalogItemsImages/ryumkaimgs/Bingo42284Second.png"
+                photo3 = "/images/catalogItemsImages/ryumkaimgs/Bingo42284Third.png"
+                photo4 = "/images/catalogItemsImages/ryumkaimgs/Bingo42284.png"
                 price = "135"
             />
         </>

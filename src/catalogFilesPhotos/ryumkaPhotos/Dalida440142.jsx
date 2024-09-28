@@ -5,10 +5,10 @@ function  Dalida440142() {
         <>
             <Example
                 name = "Dalida440142"
-                photo1 = "/images/catalogItemsImages/ryumkaimgs/Dalida440142.jpg"
-                photo2 = "/images/catalogItemsImages/ryumkaimgs/Dalida440142Second.jpg"
-                photo3 = "/images/catalogItemsImages/ryumkaimgs/Dalida440142.jpg"
-                photo4 = "/images/catalogItemsImages/ryumkaimgs/Dalida440142Second.jpg"
+                photo1 = "/images/catalogItemsImages/ryumkaimgs/Dalida440142.png"
+                photo2 = "/images/catalogItemsImages/ryumkaimgs/Dalida440142Second.png"
+                photo3 = "/images/catalogItemsImages/ryumkaimgs/Dalida440142.png"
+                photo4 = "/images/catalogItemsImages/ryumkaimgs/Dalida440142Second.png"
                 price = "135"
             />
         </>

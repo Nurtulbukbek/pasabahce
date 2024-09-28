@@ -5,10 +5,10 @@ function  Side52837() {
         <>
             <Example
                 name = "Side52837"
-                photo1 = "/images/catalogItemsImages/ryumkaimgs/Side52837.jpg"
-                photo2 = "/images/catalogItemsImages/ryumkaimgs/Side52837Second.jpg"
-                photo3 = "/images/catalogItemsImages/ryumkaimgs/Side52837Third.jpg"
-                photo4 = "/images/catalogItemsImages/ryumkaimgs/Side52837.jpg"
+                photo1 = "/images/catalogItemsImages/ryumkaimgs/Side52837.png"
+                photo2 = "/images/catalogItemsImages/ryumkaimgs/Side52837Second.png"
+                photo3 = "/images/catalogItemsImages/ryumkaimgs/Side52837Third.png"
+                photo4 = "/images/catalogItemsImages/ryumkaimgs/Side52837.png"
                 price = "135"
             />
         </>

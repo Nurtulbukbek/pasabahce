@@ -5,10 +5,10 @@ function  Elysia520242() {
         <>
             <Example
                 name = "Elysia520242"
-                photo1 = "/images/catalogItemsImages/ryumkaimgs/Elysia520242.jpg"
-                photo2 = "/images/catalogItemsImages/ryumkaimgs/Elysia520242Second.jpg"
-                photo3 = "/images/catalogItemsImages/ryumkaimgs/Elysia520242Third.jpg"
-                photo4 = "/images/catalogItemsImages/ryumkaimgs/Elysia520242.jpg"
+                photo1 = "/images/catalogItemsImages/ryumkaimgs/Elysia520242.png"
+                photo2 = "/images/catalogItemsImages/ryumkaimgs/Elysia520242Second.png"
+                photo3 = "/images/catalogItemsImages/ryumkaimgs/Elysia520242Third.png"
+                photo4 = "/images/catalogItemsImages/ryumkaimgs/Elysia520242.png"
                 price = "135"
             />
         </>

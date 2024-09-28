@@ -5,10 +5,10 @@ function  Amber440286() {
         <>
             <Example
                 name = "Amber 440286"
-                photo1 = "/images/catalogItemsImages/ryumkaimgs/Allegra42043.jpg"
-                photo2 = "/images/catalogItemsImages/ryumkaimgs/Allegra42043.jpg"
-                photo3 = "/images/catalogItemsImages/ryumkaimgs/Allegra42043.jpg"
-                photo4 = "/images/catalogItemsImages/ryumkaimgs/Allegra42043.jpg"
+                photo1 = "/images/catalogItemsImages/ryumkaimgs/Amber440286.jpg"
+                photo2 = "/images/catalogItemsImages/ryumkaimgs/Amber440286.jpg"
+                photo3 = "/images/catalogItemsImages/ryumkaimgs/Amber440286.jpg"
+                photo4 = "/images/catalogItemsImages/ryumkaimgs/Amber440286.jpg"
                 price = "115"
             />
         </>
