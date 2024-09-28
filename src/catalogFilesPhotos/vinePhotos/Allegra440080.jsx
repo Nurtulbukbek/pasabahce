@@ -4,7 +4,7 @@ function Allegra440080() {
     return(
         <>
             <Example
-                name = "Tulipe 44162"
+                name = "Allegra 440080"
                 photo1 = "/images/catalogItemsImages/vineimgs/Allegra440080.jpg"
                 photo2 = "/images/catalogItemsImages/vineimgs/Allegra440080Second.jpg"
                 photo3 = "/images/catalogItemsImages/vineimgs/Allegra440080Third.jpg"

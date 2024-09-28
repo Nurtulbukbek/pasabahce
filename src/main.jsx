@@ -39,7 +39,7 @@ import Dance42868 from './catalogFilesPhotos/sodaPhotos/Dance42868.jsx'
 import Amorf420224 from './catalogFilesPhotos/sodaPhotos/Amorf420224.jsx'
 import Pleasure420103 from './catalogFilesPhotos/sodaPhotos/Pleasure420103.jsx'
 import Karat52882 from './catalogFilesPhotos/sodaPhotos/Karat52882.jsx'
-// import Bistro44872 from './catalogFilesPhotos/sodaPhotos/Bistro44872.jsx'
+import Bistro44872 from './catalogFilesPhotos/sodaPhotos/Bistro44872.jsx'
 import Soda52704 from './catalogFilesPhotos/sodaPhotos/Soda52704.jsx'
 import Aquatic42975 from './catalogFilesPhotos/sodaPhotos/Aquatic42975.jsx'
 import Basic55531 from './catalogFilesPhotos/sodaPhotos/Basic55531.jsx'
@@ -49,6 +49,7 @@ import Allegra41536 from './catalogFilesPhotos/sodaPhotos/Allegra41536.jsx'
 import Kosem42083 from './catalogFilesPhotos/sodaPhotos/Kosem42083.jsx'
 import Luna42338 from './catalogFilesPhotos/sodaPhotos/Luna42338.jsx'
 import Luna42348 from './catalogFilesPhotos/sodaPhotos/Luna42348.jsx'
+import Luna42358 from './catalogFilesPhotos/sodaPhotos/Luna42358.jsx'
 import Luna42378 from './catalogFilesPhotos/sodaPhotos/Luna42378.jsx'
 import Side42253 from './catalogFilesPhotos/sodaPhotos/Side42253.jsx'
 import Side42435 from './catalogFilesPhotos/sodaPhotos/Side42435.jsx'
@@ -323,10 +324,10 @@ const router = createBrowserRouter([
         path: '/Karat52882',
         element: <Karat52882/>
     },
-    // {
-    //     path: '/Bistro4487',
-    //     element: <Bistro44872/>
-    // },
+    {
+        path: '/Bistro44872',
+        element: <Bistro44872/>
+    },
     {
         path: '/Soda52704',
         element: <Soda52704/>
@@ -362,6 +363,10 @@ const router = createBrowserRouter([
     {
         path: '/Luna42348',
         element: <Luna42348/>
+    },
+    {
+        path: '/Luna42358',
+        element: <Luna42358/>
     },
     {
         path: '/Luna42378',

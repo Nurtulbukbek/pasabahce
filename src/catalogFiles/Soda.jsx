@@ -214,7 +214,7 @@ const cupCatalog = [
         height: "50%",
     },
     {
-        type: "/Bis tro44872",
+        type: "/Bistro44872",
         title: 'Bistro 44872',
         value: "Объем: 380ml",
         quantity: "К/л в упаковке: 6",
@@ -304,13 +304,13 @@ const cupCatalog = [
         height: "50%",
     },
     {
-        type: "/Luna42378",
-        title: 'Luna42358',
+        type: "/Luna42358",
+        title: 'Luna 42358',
         value: "Объем: 390ml",
         quantity: "К/л в упаковке: 6",
         price: "Цена: 120TMT",
         url: "/images/catalogItemsImages/sodaimgs/Luna42358.png",
-        height: "50%",
+        height: "40%",
     },
     {
         type: "/Luna42378",
