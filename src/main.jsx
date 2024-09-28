@@ -644,18 +644,18 @@ const router = createBrowserRouter([
     //     path: '/Chroma55813',
     //     element: <Chroma55813/>
     // },
-    {
-        path: '/Tashkent96806',
-        element: <Tashkent96806/>
-    },
-    {
-        path: '/TeaCoffee55411',
-        element: <TeaCoffee55411/>
-    },
-    {
-        path: '/Timeless42881',
-        element: <Timeless42881/>
-    },
+    // {
+    //     path: '/Tashkent96806',
+    //     element: <Tashkent96806/>
+    // },
+    // {
+    //     path: '/TeaCoffee55411',
+    //     element: <TeaCoffee55411/>
+    // },
+    // {
+    //     path: '/Timeless42881',
+    //     element: <Timeless42881/>
+    // },
 
 
 //---------others------
