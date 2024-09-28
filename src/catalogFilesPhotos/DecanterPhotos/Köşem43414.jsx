@@ -9,7 +9,7 @@ function  Köşem43414() {
                 photo2 = "/images/catalogItemsImages/decanterimgs/Köşem43414Second.jpg"
                 photo3 = "/images/catalogItemsImages/decanterimgs/Köşem43414.jpg"
                 photo4 = "/images/catalogItemsImages/decanterimgs/Köşem43414Third.jpg"
-                price = "35"
+                price = "75"
             />
         </>
     )

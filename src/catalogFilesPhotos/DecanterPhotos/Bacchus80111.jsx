@@ -9,7 +9,7 @@ function  Bacchus80111() {
                 photo2 = "/images/catalogItemsImages/decanterimgs/Bacchus80111Second.jpg"
                 photo3 = "/images/catalogItemsImages/decanterimgs/Bacchus80111Third.jpg"
                 photo4 = "/images/catalogItemsImages/decanterimgs/Bacchus80111.jpg"
-                price = "75"
+                price = "35"
             />
         </>
     )

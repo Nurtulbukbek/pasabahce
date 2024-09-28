@@ -58,24 +58,6 @@ const cupCatalog = [
         url: "/images/catalogItemsImages/decanterimgs/Basic43964.jpg",
         height: "50%",
     },
-    {
-        type: "/Bistro43944",
-        title: 'Bistro 43944',
-        value: " 1000",
-        quantity: "1",
-        price: " 70",
-        url: "/images/catalogItemsImages/decanterimgs/Bistro43944.jpg",
-        height: "50%",
-    },
-    {
-        type: "/Bistro43944",
-        title: 'Bistro 43944',
-        value: " 1000",
-        quantity: "1",
-        price: " 70",
-        url: "/images/catalogItemsImages/decanterimgs/Bistro43944.jpg",
-        height: "50%",
-    },
 ]
 
 function Decanter() {
