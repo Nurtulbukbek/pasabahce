@@ -9,7 +9,7 @@ function Vintage440283() {
                 photo2 = "/images/catalogItemsImages/champagneimgs/Vintage440283Second.png"
                 photo3 = "/images/catalogItemsImages/champagneimgs/Vintage440283Third.png"
                 photo4 = "/images/catalogItemsImages/champagneimgs/Vintage440283Fourth.png"
-                price = "185"
+                price = "165"
             />
         </>
     )

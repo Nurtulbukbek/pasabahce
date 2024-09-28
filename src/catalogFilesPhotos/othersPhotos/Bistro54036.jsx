@@ -10,7 +10,7 @@ function  Bistro54036() {
                 photo2 = "/images/catalogItemsImages/othersImages/Bistro54036Second.png"
                 photo3 = "/images/catalogItemsImages/othersImages/Bistro54036.png"
                 photo4 = "/images/catalogItemsImages/othersImages/Bistro54036Second.png"
-                price = "68"
+                price = "25"
             />
         </>
     )

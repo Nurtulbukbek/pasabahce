@@ -10,7 +10,7 @@ function  Basic55022() {
                 photo2 = "/images/catalogItemsImages/othersImages/Basic55022Second.jpg"
                 photo3 = "/images/catalogItemsImages/othersImages/Basic55022.jpg"
                 photo4 = "/images/catalogItemsImages/othersImages/Basic55022Second.jpg"
-                price = "68"
+                price = "65"
             />
         </>
     )

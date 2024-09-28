@@ -80,7 +80,7 @@ const cupCatalog = [
     {
         type: "/Borcam59024",
         title: 'Borcam 59024',
-        value: "3200ml/315x280mm",
+        value: "3.2l/315x280mm",
         quantity: "1",
         price: "130",
         url: "/images/catalogItemsImages/othersImages/Borcam59024.png",
@@ -89,16 +89,16 @@ const cupCatalog = [
     {
         type: "/Borcam59052",
         title: 'Borcam 59052',
-        value: "2850+1800ml/340x195mm",
+        value: "2.8l+1.8l/340x195mm",
         quantity: "1",
         price: "200",
         url: "/images/catalogItemsImages/othersImages/Borcam59052.png",
-        height: "50%",
+        height: "40%",
     },
     {
         type: "/Borcam59062",
         title: 'Borcam 59062',
-        value: "2000+1700/340x195",
+        value: "2l + 1.7l/340x195",
         quantity: "1",
         price: "180",
         url: "/images/catalogItemsImages/othersImages/Borcam59062.png",
@@ -107,11 +107,11 @@ const cupCatalog = [
     {
         type: "/Borcam59204",
         title: 'Borcam 59204',
-        value: "3800ml/400x270mm",
+        value: "3.8l/400x270mm",
         quantity: "1",
         price: "180",
         url: "/images/catalogItemsImages/othersImages/Borcam59204.png",
-        height: "50%",
+        height: "40%",
     },
     {
         type: "/Borcam59544",
@@ -123,7 +123,7 @@ const cupCatalog = [
         height: "50%",
     },
     {
-        type: "/Borcam59544",
+        type: "/Borcam59544scn",
         title: 'Borcam 59544',
         value: "2950ml/d-320mm",
         quantity: "1",
@@ -177,7 +177,7 @@ const cupCatalog = [
         height: "50%",
     },
     {
-        type: "/Homemade80383",
+        type: "/Homemade80384",
         title: 'Homemade 80384',
         value: "500ml",
         quantity: "1",
@@ -255,7 +255,7 @@ const cupCatalog = [
         quantity: "2",
         price: "35",
         url: "/images/catalogItemsImages/othersImages/Kosem54076.png",
-        height: "50%",
+        height: "40%",
     },
     {
         type: "/Kremlin97624",

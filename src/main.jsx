@@ -145,11 +145,13 @@ import Borcam59052 from './catalogFilesPhotos/othersPhotos/Borcam59052.jsx'
 import Borcam59062 from './catalogFilesPhotos/othersPhotos/Borcam59062.jsx'
 import Borcam59204 from './catalogFilesPhotos/othersPhotos/Borcam59204.jsx'
 import Borcam59544 from './catalogFilesPhotos/othersPhotos/Borcam59544.jsx'
+import Borcam59544scn from './catalogFilesPhotos/othersPhotos/Borcam59544 2.jsx'
 import Ceshni97424 from './catalogFilesPhotos/othersPhotos/Ceshni97424.jsx'
 import Cesni97560 from './catalogFilesPhotos/othersPhotos/Cesni97560.jsx'
 import Flora43267 from './catalogFilesPhotos/othersPhotos/Flora43267.jsx'
 import Flora43966 from './catalogFilesPhotos/othersPhotos/Flora43966.jsx'
 import Homemade80383 from './catalogFilesPhotos/othersPhotos/Homemade80383.jsx'
+import Homemade80384 from './catalogFilesPhotos/othersPhotos/Homemade80384.jsx'
 import IceVilley51008 from './catalogFilesPhotos/othersPhotos/IceVilley51008.jsx'
 import IceVilley41016 from './catalogFilesPhotos/othersPhotos/IceVilley41016.jsx'
 import IceVilley51068 from './catalogFilesPhotos/othersPhotos/IceVilley51068.jsx'
@@ -717,6 +719,10 @@ const router = createBrowserRouter([
     element: <Borcam59544/>
 },
 {
+    path: '/Borcam59544scn',
+    element: <Borcam59544scn/>
+},
+{
     path: '/Ceshni97424',
     element: <Ceshni97424/>
 },
@@ -737,8 +743,8 @@ const router = createBrowserRouter([
     element: <Homemade80383/>
 },
 {
-    path: '/Homemade80383',
-    element: <Homemade80383/>
+    path: '/Homemade80384',
+    element: <Homemade80384/>
 },
 {
     path: '/IceVilley51008',
@@ -791,6 +797,10 @@ const router = createBrowserRouter([
 {
     path: '/Patissiere98259',
     element: <Patissiere98259/>
+},
+{
+    path: '/Patissiere95200',
+    element: <Patissiere95200/>
 },
 {
     path: '/Piknik54646',

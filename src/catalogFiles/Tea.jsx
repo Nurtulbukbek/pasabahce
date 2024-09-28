@@ -11,7 +11,7 @@ const cupCatalog = [
         quantity: "6",
         price: "150",
         url: "/images/catalogItemsImages/teaimgs/Tea97948.jpg",
-        height: "40%",
+        height: "30%",
     },
     {
         type: "/Chroma55813",
@@ -29,7 +29,7 @@ const cupCatalog = [
         quantity: "2",
         price: "70",
         url: "/images/catalogItemsImages/teaimgs/Tashkent96806.png",
-        height: "40%",
+        height: "30%",
     },
     {
         type: "/TeaCoffee55411",
