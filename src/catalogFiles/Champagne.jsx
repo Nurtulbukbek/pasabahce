@@ -51,7 +51,7 @@ function Champagne() {
                 <SliderCatalog/>
 
                 <div className="container">
-                <p className="catalogTitle">Бокалы для напитков</p>
+                <p className="catalogTitle">Фужеры для шампанского/коктейлей</p>
                 
                 <div className="cupItemContainer">
                     {cupCatalog.map(cupCatalog => (

@@ -11,7 +11,7 @@ function Footer() {
                     <img className="footer-pasabahce-logo" src="/images/logos/pasabahceDarkLogo.png" alt="" height="50px" />
 
                      <div className="contacts">
-                        <a href="#">
+                        <a href="https://www.tiktok.com/@pasabahce_tm?is_from_webapp=1&sender_device=pc">
                             <img src="/images/logos/tiktok-logo.svg" alt="" />
                         </a>
                         <a href="#">
@@ -20,11 +20,10 @@ function Footer() {
                         <a href="#">
                             <img src="/images/logos/Imo-logo.png" alt="" />
                         </a>
-                        <span>+993 65 123456</span>
+                        <span>+993 61 931551</span>
                     </div>
                 </footer>
                 <div className="prod">
-                    <p> © IPC 2021. All right reserved</p>
                     <p>Prod by Nurtulbukbek</p>
                 </div>
             </div>
