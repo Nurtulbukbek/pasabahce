@@ -124,11 +124,11 @@ import Frigo80050 from './catalogFilesPhotos/DecanterPhotos/Frigo80050.jsx'
 import Basic43964 from './catalogFilesPhotos/DecanterPhotos/Basic43964.jsx'
 
 // ----------tea---------
-// import Tea97948 from './catalogFilesPhotos/TeaFolder/Tea97948.jsx'
-// import Chroma55813 from './catalogFilesPhotos/teaFolder/Chroma55813.jsx'
-// import Tashkent96806 from './catalogFilesPhotos/teaFolder/Tashkent96806.jsx'
-// import TeaCoffee55411 from './catalogFilesPhotos/teaFolder/TeaCoffee55411.jsx'
-// import Timeless42881 from './catalogFilesPhotos/teaFolder/Timeless42881.jsx'
+import Tea97948 from './catalogFilesPhotos/teaFolder/Tea97948.jsx'
+import Chroma55813 from './catalogFilesPhotos/teaFolder/Chroma55813.jsx'
+import Tashkent96806 from './catalogFilesPhotos/teaFolder/Tashkent96806.jsx'
+import TeaCoffee55411 from './catalogFilesPhotos/teaFolder/TeaCoffee55411.jsx'
+import Timeless42881 from './catalogFilesPhotos/teaFolder/Timeless42881.jsx'
 
 
 //---------others-----------
@@ -643,26 +643,26 @@ const router = createBrowserRouter([
     },
 
 //----------tea----------
-    // {
-    //     path: '/Tea97948',
-    //     element: <Tea97948/>
-    // },
-    // {
-    //     path: '/Chroma55813',
-    //     element: <Chroma55813/>
-    // },
-    // {
-    //     path: '/Tashkent96806',
-    //     element: <Tashkent96806/>
-    // },
-    // {
-    //     path: '/TeaCoffee55411',
-    //     element: <TeaCoffee55411/>
-    // },
-    // {
-    //     path: '/Timeless42881',
-    //     element: <Timeless42881/>
-    // },
+    {
+        path: '/Tea97948',
+        element: <Tea97948/>
+    },
+    {
+        path: '/Chroma55813',
+        element: <Chroma55813/>
+    },
+    {
+        path: '/Tashkent96806',
+        element: <Tashkent96806/>
+    },
+    {
+        path: '/TeaCoffee55411',
+        element: <TeaCoffee55411/>
+    },
+    {
+        path: '/Timeless42881',
+        element: <Timeless42881/>
+    },
 
 
 //---------others------
