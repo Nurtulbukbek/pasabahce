@@ -14,7 +14,7 @@ function Footer() {
                         <a href="https://www.tiktok.com/@pasabahce_tm?is_from_webapp=1&sender_device=pc">
                             <img src="/images/logos/tiktok-logo.svg" alt="" />
                         </a>
-                        <a href="#">
+                        <a href="https://www.instagram.com/pasabahce_turkmenistan?igsh=MTZ6Ym9uc3N1Zjd6dA==">
                         <img src="/images/logos/insta-logo.png" alt="" />
                         </a>
                         <a href="#">
