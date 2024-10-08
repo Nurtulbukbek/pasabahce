@@ -124,7 +124,7 @@ import Frigo80050 from './catalogFilesPhotos/DecanterPhotos/Frigo80050.jsx'
 import Basic43964 from './catalogFilesPhotos/DecanterPhotos/Basic43964.jsx'
 
 // ----------tea---------
-import Tea97948 from "src/catalogFilesPhotos/teaFolder/Tea97948.jsx"
+// import Tea97948 from "src/catalogFilesPhotos/teaFolder/Tea97948.jsx"
 // import Chroma55813 from './catalogFilesPhotos/teaFolder/Chroma55813.jsx'
 // import Tashkent96806 from './catalogFilesPhotos/teaFolder/Tashkent96806.jsx'
 // import TeaCoffee55411 from './catalogFilesPhotos/teaFolder/TeaCoffee55411.jsx'
@@ -642,10 +642,10 @@ const router = createBrowserRouter([
     },
 
 //----------tea----------
-    {
-        path: '/Tea97948',
-        element: <Tea97948/>
-    },
+    // {
+    //     path: '/Tea97948',
+    //     element: <Tea97948/>
+    // },
     // {
     //     path: '/Chroma55813',
     //     element: <Chroma55813/>
