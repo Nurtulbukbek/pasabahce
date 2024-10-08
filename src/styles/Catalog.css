@@ -67,6 +67,7 @@
     display: flex;
     justify-content: center;
     color: black;
+    text-align: center;
 }
 
 .exactCatalogItemTitle{

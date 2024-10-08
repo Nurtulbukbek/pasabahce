@@ -46,7 +46,7 @@ const cupCatalog = [
     {
         type: "/Borcam59052",
         title: 'Borcam 59052',
-        value: "2.8l+1.8l/340x195mm",
+        value: '2.8l+1.8l/340x195mm',
         quantity: "1",
         price: "200",
         url: "/images/catalogItemsImages/othersImages/Borcam59052.png",
