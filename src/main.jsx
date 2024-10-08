@@ -125,11 +125,10 @@ import Basic43964 from './catalogFilesPhotos/DecanterPhotos/Basic43964.jsx'
 
 // ----------tea---------
 import Tea97948 from './catalogFilesPhotos/teaFolder/Tea97948.jsx'
-import Chroma55813 from './catalogFilesPhotos/teaFolder/Chroma55813.jsx'
-import Tashkent96806 from './catalogFilesPhotos/teaFolder/Tashkent96806.jsx'
-import TeaCoffee55411 from './catalogFilesPhotos/teaFolder/TeaCoffee55411.jsx'
-import Timeless42881 from './catalogFilesPhotos/teaFolder/Timeless42881.jsx'
-
+// import Chroma55813 from './catalogFilesPhotos/teaFolder/Chroma55813.jsx'
+// import Tashkent96806 from './catalogFilesPhotos/teaFolder/Tashkent96806.jsx'
+// import TeaCoffee55411 from './catalogFilesPhotos/teaFolder/TeaCoffee55411.jsx'
+// import Timeless42881 from './catalogFilesPhotos/teaFolder/Timeless42881.jsx'
 
 //---------others-----------
 import Basic55022 from './catalogFilesPhotos/othersPhotos/Basic55022.jsx'
